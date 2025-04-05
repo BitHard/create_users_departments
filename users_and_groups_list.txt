@@ -1,0 +1,40 @@
+#Users
+USER:carlos
+USER:maria
+USER:joao_
+USER:debora
+USER:sebastiana
+USER:roberto
+USER:josefina
+USER:amanda
+USER:rogerio
+
+#Groups
+GROUP:GRP_ADM
+GROUP:GRP_VEN
+GROUP:GRP_SEC
+
+#Groups's Users
+USER_GROUPS:carlos;GRP_ADM
+USER_GROUPS:maria;GRP_ADM
+USER_GROUPS:joao_;GRP_ADM
+USER_GROUPS:debora;GRP_VEN
+USER_GROUPS:sebastiana;GRP_VEN
+USER_GROUPS:roberto;GRP_VEN
+USER_GROUPS:josefina;GRP_SEC
+USER_GROUPS:amanda;GRP_SEC
+USER_GROUPS:rogerio;GRP_SEC
+
+
+#Work Directories
+DIR:/publico
+DIR:/adm
+DIR:/ven
+DIR:/sec
+
+
+#Permissions (directory_name;owner;group;owner_properties;group_properties;others_properties)
+PERM:/publico;root;root;rwx;r-x;rwx
+PERM:/adm;root;GRP_ADM;rwx;rwx,---
+PERM:/ven;root;GRP_VEN;rwx;rwx,---
+PERM:/sec;root;GRP_SEC;rwx;rwx,---
