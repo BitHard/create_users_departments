@@ -29,6 +29,6 @@ DIR:/sec
 
 #Permissions (directory_name;owner;group;owner_properties;group_properties;others_properties)
 PERM:/publico;root;root;rwx;rwx;rwx
-PERM:/adm;root;GRP_ADM;rwx;rwx,---
-PERM:/ven;root;GRP_VEN;rwx;rwx,---
-PERM:/sec;root;GRP_SEC;rwx;rwx,---
+PERM:/adm;root;GRP_ADM;rwx;rwx;---
+PERM:/ven;root;GRP_VEN;rwx;rwx;---
+PERM:/sec;root;GRP_SEC;rwx;rwx;---

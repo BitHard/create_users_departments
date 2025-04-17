@@ -12,7 +12,7 @@
 # =========
 
 sourceFile="users_and_groups_list.txt"
-logFile="logFile-$(date +%Y-%m-%d).txt"
+logFile="logFile-$(date +%Y-%m-%d).log"
 
 # Cores
 GREEN='\033[1;32m'
@@ -170,6 +170,24 @@ function setPrimaryGroup() {
 
 function setPermissions() {
   logInfo "Setting permissions for the directories."
+  IFS='|' read -r listPermission <<< "$permInfo"
+      for permissionLine in "${listPermission[@]}"; do
+        IFS=';' read -r dirPath owner group permUser permGroup permOthers <<< "$entry"
+
+        # Change owner an group of directory
+        if chown "$owner":"$group" "$dirPath" &>/dev/null; then
+          logOk "Change $owner and $group for $dirPath"
+        else
+          logFail "Error in change permissions: $owner and $group for $dirPath."
+        fi
+        
+        # Set permission properties
+        if chmod u="$permUser",g="$permGroup",o="$permOthers" "$dirPath" $>/dev/null; then
+          logOk "Apply permission in $dirPath → $permUser/$permGroup/$permOthers"
+        else
+          logFail "Error to apply permission in $dirPath."
+        fi
+    done
 
 }
 
@@ -213,24 +231,15 @@ while IFS= read -r line; do
   fi
 
   if [[ "$cleanLine" == PERM:* ]]; then
-    permInfo=${cleanLine#PERM:}
-    IFS=';' read -r dirPath owner group permUser permGroup permOthers <<< "$permInfo"
-
-    # Change owner an group of directory
-    chown "$owner":"$group" "$dirPath"
-    logOk "Change $owner and $group for $dirPath"
-        
-    # Set permission properties
-    chmod u="$permUser",g="$permGroup",o="$permOthers" "$dirPath"
-    logOk "Permissões aplicadas em $dirPath → owner: $owner, group: $group, perms: $permUser/$permGroup/$permOthers"
+    permInfo+=${cleanLine#PERM:}\|
   fi
 
 done < "$sourceFile"
 
 
-removeUsers
-removeGroups
-removeWorkDirectories
+#removeUsers
+#removeGroups
+#removeWorkDirectories
 
 #createUsers
 #createGroups
@@ -238,3 +247,7 @@ removeWorkDirectories
 
 #setPrimaryGroup
 #setPermissions
+
+
+print "$usersToGroup"
+print "$permInfo"
