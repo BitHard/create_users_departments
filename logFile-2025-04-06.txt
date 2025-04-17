@@ -1,0 +1,232 @@
+2025-04-06 16:48:07 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 16:48:07 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 16:48:07 [ OK ] Change root and root for /publico
+2025-04-06 16:48:07 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 16:48:07 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 16:48:07 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 16:48:07 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 16:48:07 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 16:48:07 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 16:48:07 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 16:48:07 [INFO] Search and removing users...
+2025-04-06 16:48:07 [FAIL] User  carlos doens't exist.
+2025-04-06 16:48:07 [FAIL] User  maria doens't exist.
+2025-04-06 16:48:07 [FAIL] User  joao_ doens't exist.
+2025-04-06 16:48:07 [FAIL] User  debora doens't exist.
+2025-04-06 16:48:07 [FAIL] User  sebastiana doens't exist.
+2025-04-06 16:48:07 [FAIL] User  roberto doens't exist.
+2025-04-06 16:48:07 [FAIL] User  josefina doens't exist.
+2025-04-06 16:48:07 [FAIL] User  amanda doens't exist.
+2025-04-06 16:48:07 [FAIL] User  rogerio doens't exist.
+2025-04-06 16:48:07 [INFO] Search and removing old groups...
+2025-04-06 16:48:07 [FAIL] Group 'GRP_ADM' doens't exist.
+2025-04-06 16:48:07 [FAIL] Group 'GRP_VEN' doens't exist.
+2025-04-06 16:48:07 [FAIL] Group 'GRP_SEC' doens't exist.
+2025-04-06 16:48:07 [INFO] Cleaning old directories...
+2025-04-06 16:48:07 [FAIL] The directory '/publico' doesn't exist.
+2025-04-06 16:48:07 [FAIL] The directory '/adm' doesn't exist.
+2025-04-06 16:48:07 [FAIL] The directory '/ven' doesn't exist.
+2025-04-06 16:48:07 [FAIL] The directory '/sec' doesn't exist.
+2025-04-06 16:53:36 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 16:53:36 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 16:53:36 [ OK ] Change root and root for /publico
+2025-04-06 16:53:36 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 16:53:36 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 16:53:36 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 16:53:36 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 16:53:36 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 16:53:36 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 16:53:36 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 16:53:36 [INFO] Search and removing users...
+2025-04-06 16:53:36 [FAIL] User  carlos doens't exist.
+2025-04-06 16:53:36 [FAIL] User  maria doens't exist.
+2025-04-06 16:53:36 [FAIL] User  joao_ doens't exist.
+2025-04-06 16:53:36 [FAIL] User  debora doens't exist.
+2025-04-06 16:53:36 [FAIL] User  sebastiana doens't exist.
+2025-04-06 16:53:36 [FAIL] User  roberto doens't exist.
+2025-04-06 16:53:36 [FAIL] User  josefina doens't exist.
+2025-04-06 16:53:36 [FAIL] User  amanda doens't exist.
+2025-04-06 16:53:36 [FAIL] User  rogerio doens't exist.
+2025-04-06 16:53:36 [INFO] Search and removing old groups...
+2025-04-06 16:53:36 [FAIL] Group 'GRP_ADM' doens't exist.
+2025-04-06 16:53:36 [FAIL] Group 'GRP_VEN' doens't exist.
+2025-04-06 16:53:36 [FAIL] Group 'GRP_SEC' doens't exist.
+2025-04-06 16:53:36 [INFO] Cleaning old directories...
+2025-04-06 16:53:36 [FAIL] The directory '/publico' doesn't exist.
+2025-04-06 16:53:36 [FAIL] The directory '/adm' doesn't exist.
+2025-04-06 16:53:36 [FAIL] The directory '/ven' doesn't exist.
+2025-04-06 16:53:36 [FAIL] The directory '/sec' doesn't exist.
+2025-04-06 17:33:19 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 17:33:19 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 17:33:19 [ OK ] Change root and root for /publico
+2025-04-06 17:33:19 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 17:33:19 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 17:33:19 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 17:33:19 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 17:33:19 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 17:33:19 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 17:33:19 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 17:33:19 [INFO] Search and removing users...
+2025-04-06 17:33:19 [FAIL] User  carlos doens't exist.
+2025-04-06 17:33:19 [FAIL] User  maria doens't exist.
+2025-04-06 17:33:19 [FAIL] User  joao_ doens't exist.
+2025-04-06 17:33:19 [FAIL] User  debora doens't exist.
+2025-04-06 17:33:19 [FAIL] User  sebastiana doens't exist.
+2025-04-06 17:33:19 [FAIL] User  roberto doens't exist.
+2025-04-06 17:33:19 [FAIL] User  josefina doens't exist.
+2025-04-06 17:33:19 [FAIL] User  amanda doens't exist.
+2025-04-06 17:33:19 [FAIL] User  rogerio doens't exist.
+2025-04-06 17:33:19 [INFO] Search and removing old groups...
+2025-04-06 17:33:19 [FAIL] Group 'GRP_ADM' doens't exist.
+2025-04-06 17:33:19 [FAIL] Group 'GRP_VEN' doens't exist.
+2025-04-06 17:33:19 [FAIL] Group 'GRP_SEC' doens't exist.
+2025-04-06 17:33:19 [INFO] Cleaning old directories...
+2025-04-06 17:33:19 [FAIL] The directory '/publico' doesn't exist.
+2025-04-06 17:33:19 [FAIL] The directory '/adm' doesn't exist.
+2025-04-06 17:33:19 [FAIL] The directory '/ven' doesn't exist.
+2025-04-06 17:33:19 [FAIL] The directory '/sec' doesn't exist.
+2025-04-06 17:35:20 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 17:35:20 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 17:35:20 [ OK ] Change root and root for /publico
+2025-04-06 17:35:20 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 17:35:20 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 17:35:20 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 17:35:20 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 17:35:20 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 17:35:20 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 17:35:20 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 17:35:20 [INFO] Search and removing users...
+2025-04-06 17:35:20 [FAIL] User  carlos doens't exist.
+2025-04-06 17:35:20 [FAIL] User  maria doens't exist.
+2025-04-06 17:35:20 [FAIL] User  joao_ doens't exist.
+2025-04-06 17:35:20 [FAIL] User  debora doens't exist.
+2025-04-06 17:35:20 [FAIL] User  sebastiana doens't exist.
+2025-04-06 17:35:20 [FAIL] User  roberto doens't exist.
+2025-04-06 17:35:20 [FAIL] User  josefina doens't exist.
+2025-04-06 17:35:20 [FAIL] User  amanda doens't exist.
+2025-04-06 17:35:20 [FAIL] User  rogerio doens't exist.
+2025-04-06 17:35:20 [INFO] Search and removing old groups...
+2025-04-06 17:35:20 [FAIL] Group 'GRP_ADM' doens't exist.
+2025-04-06 17:35:20 [FAIL] Group 'GRP_VEN' doens't exist.
+2025-04-06 17:35:20 [FAIL] Group 'GRP_SEC' doens't exist.
+2025-04-06 17:35:20 [INFO] Cleaning old directories...
+2025-04-06 17:35:20 [FAIL] The directory '/publico' doesn't exist.
+2025-04-06 17:35:20 [FAIL] The directory '/adm' doesn't exist.
+2025-04-06 17:35:20 [FAIL] The directory '/ven' doesn't exist.
+2025-04-06 17:35:20 [FAIL] The directory '/sec' doesn't exist.
+2025-04-06 17:36:06 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 17:36:06 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 17:36:06 [ OK ] Change root and root for /publico
+2025-04-06 17:36:06 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 17:36:06 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 17:36:06 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 17:36:06 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 17:36:06 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 17:36:06 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 17:36:06 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 17:36:06 [INFO] Search and removing users...
+2025-04-06 17:36:06 [FAIL] User  carlos doens't exist.
+2025-04-06 17:36:06 [FAIL] User  maria doens't exist.
+2025-04-06 17:36:06 [FAIL] User  joao_ doens't exist.
+2025-04-06 17:36:06 [FAIL] User  debora doens't exist.
+2025-04-06 17:36:06 [FAIL] User  sebastiana doens't exist.
+2025-04-06 17:36:06 [FAIL] User  roberto doens't exist.
+2025-04-06 17:36:06 [FAIL] User  josefina doens't exist.
+2025-04-06 17:36:06 [FAIL] User  amanda doens't exist.
+2025-04-06 17:36:06 [FAIL] User  rogerio doens't exist.
+2025-04-06 17:36:06 [INFO] Search and removing old groups...
+2025-04-06 17:36:06 [FAIL] Group 'GRP_ADM' doens't exist.
+2025-04-06 17:36:06 [FAIL] Group 'GRP_VEN' doens't exist.
+2025-04-06 17:36:06 [FAIL] Group 'GRP_SEC' doens't exist.
+2025-04-06 17:36:06 [INFO] Cleaning old directories...
+2025-04-06 17:36:06 [FAIL] The directory '/publico' doesn't exist.
+2025-04-06 17:36:06 [FAIL] The directory '/adm' doesn't exist.
+2025-04-06 17:36:06 [FAIL] The directory '/ven' doesn't exist.
+2025-04-06 17:36:06 [FAIL] The directory '/sec' doesn't exist.
+2025-04-06 17:38:55 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 17:38:55 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 17:38:55 [ OK ] Change root and root for /publico
+2025-04-06 17:38:55 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 17:38:55 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 17:38:55 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 17:38:55 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 17:38:55 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 17:38:55 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 17:38:55 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 17:38:55 [INFO] Search and removing users...
+2025-04-06 17:38:55 [INFO] User  'carlos' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'maria' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'joao_' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'debora' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'sebastiana' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'roberto' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'josefina' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'amanda' doens't exist.
+2025-04-06 17:38:55 [INFO] User  'rogerio' doens't exist.
+2025-04-06 17:38:55 [INFO] Search and removing old groups...
+2025-04-06 17:38:55 [INFO] Group 'GRP_ADM' doens't exist.
+2025-04-06 17:38:55 [INFO] Group 'GRP_VEN' doens't exist.
+2025-04-06 17:38:55 [INFO] Group 'GRP_SEC' doens't exist.
+2025-04-06 17:38:55 [INFO] Cleaning old directories...
+2025-04-06 17:38:55 [FAIL] The directory '/publico' doesn't exist.
+2025-04-06 17:38:55 [FAIL] The directory '/adm' doesn't exist.
+2025-04-06 17:38:55 [FAIL] The directory '/ven' doesn't exist.
+2025-04-06 17:38:55 [FAIL] The directory '/sec' doesn't exist.
+2025-04-06 17:40:20 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 17:40:20 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 17:40:20 [ OK ] Change root and root for /publico
+2025-04-06 17:40:21 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 17:40:21 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 17:40:21 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 17:40:21 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 17:40:21 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 17:40:21 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 17:40:21 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 17:40:21 [INFO] Search and removing users...
+2025-04-06 17:40:21 [INFO] Removing user: 'carlos'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'maria'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'joao_'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'debora'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'sebastiana'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'roberto'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'josefina'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'amanda'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Removing user: 'rogerio'.User doens't exist.
+2025-04-06 17:40:21 [INFO] Search and removing old groups...
+2025-04-06 17:40:21 [INFO] Group 'GRP_ADM' doens't exist.
+2025-04-06 17:40:21 [INFO] Group 'GRP_VEN' doens't exist.
+2025-04-06 17:40:21 [INFO] Group 'GRP_SEC' doens't exist.
+2025-04-06 17:40:21 [INFO] Cleaning old directories...
+2025-04-06 17:40:21 [FAIL] The directory '/publico' doesn't exist.
+2025-04-06 17:40:21 [FAIL] The directory '/adm' doesn't exist.
+2025-04-06 17:40:21 [FAIL] The directory '/ven' doesn't exist.
+2025-04-06 17:40:21 [FAIL] The directory '/sec' doesn't exist.
+2025-04-06 17:44:28 [INFO] Starting program ./createUsersGroups.sh
+2025-04-06 17:44:28 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-06 17:44:28 [ OK ] Change root and root for /publico
+2025-04-06 17:44:28 [ OK ] Permissões aplicadas em /publico → owner: root, group: root, perms: rwx/r-x/rwx
+2025-04-06 17:44:28 [ OK ] Change root and GRP_ADM for /adm
+2025-04-06 17:44:28 [ OK ] Permissões aplicadas em /adm → owner: root, group: GRP_ADM, perms: rwx/rwx,---/
+2025-04-06 17:44:28 [ OK ] Change root and GRP_VEN for /ven
+2025-04-06 17:44:28 [ OK ] Permissões aplicadas em /ven → owner: root, group: GRP_VEN, perms: rwx/rwx,---/
+2025-04-06 17:44:28 [ OK ] Change root and GRP_SEC for /sec
+2025-04-06 17:44:28 [ OK ] Permissões aplicadas em /sec → owner: root, group: GRP_SEC, perms: rwx/rwx,---/
+2025-04-06 17:44:28 [INFO] Search and removing users...
+2025-04-06 17:44:28 [INFO] Removing user: 'carlos'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'maria'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'joao_'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'debora'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'sebastiana'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'roberto'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'josefina'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'amanda'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing user: 'rogerio'. User doesn't exist.
+2025-04-06 17:44:28 [INFO] Search and removing old groups...
+2025-04-06 17:44:28 [INFO] Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-06 17:44:28 [INFO] Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-06 17:44:28 [INFO] Cleaning old directories...
+2025-04-06 17:44:28 [INFO] The directory '/publico' doesn't exist.
+2025-04-06 17:44:28 [INFO] The directory '/adm' doesn't exist.
+2025-04-06 17:44:28 [INFO] The directory '/ven' doesn't exist.
+2025-04-06 17:44:28 [INFO] The directory '/sec' doesn't exist.

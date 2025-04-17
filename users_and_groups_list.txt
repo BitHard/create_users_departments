@@ -15,15 +15,9 @@ GROUP:GRP_VEN
 GROUP:GRP_SEC
 
 #Groups's Users
-USER_GROUPS:carlos;GRP_ADM
-USER_GROUPS:maria;GRP_ADM
-USER_GROUPS:joao_;GRP_ADM
-USER_GROUPS:debora;GRP_VEN
-USER_GROUPS:sebastiana;GRP_VEN
-USER_GROUPS:roberto;GRP_VEN
-USER_GROUPS:josefina;GRP_SEC
-USER_GROUPS:amanda;GRP_SEC
-USER_GROUPS:rogerio;GRP_SEC
+USERS_GROUP:GRP_ADM:carlos,maria,joao_
+USERS_GROUP:GRP_VEN:debora,sebastiana,roberto
+USERS_GROUP:GRP_SEC:josefina,amanda,rogerio
 
 
 #Work Directories
@@ -34,7 +28,7 @@ DIR:/sec
 
 
 #Permissions (directory_name;owner;group;owner_properties;group_properties;others_properties)
-PERM:/publico;root;root;rwx;r-x;rwx
+PERM:/publico;root;root;rwx;rwx;rwx
 PERM:/adm;root;GRP_ADM;rwx;rwx,---
 PERM:/ven;root;GRP_VEN;rwx;rwx,---
 PERM:/sec;root;GRP_SEC;rwx;rwx,---
