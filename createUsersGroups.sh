@@ -237,17 +237,13 @@ while IFS= read -r line; do
 done < "$sourceFile"
 
 
-#removeUsers
-#removeGroups
-#removeWorkDirectories
+removeUsers
+removeGroups
+removeWorkDirectories
 
-#createUsers
-#createGroups
-#createWorkDirectories
+createUsers
+createGroups
+createWorkDirectories
 
-#setPrimaryGroup
-#setPermissions
-
-
-print "$usersToGroup"
-print "$permInfo"
+setPrimaryGroup
+setPermissions
