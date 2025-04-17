@@ -15,9 +15,9 @@ GROUP:GRP_VEN
 GROUP:GRP_SEC
 
 #Groups's Users
-USERS_GROUP:GRP_ADM:carlos,maria,joao_
-USERS_GROUP:GRP_VEN:debora,sebastiana,roberto
-USERS_GROUP:GRP_SEC:josefina,amanda,rogerio
+USERS_GROUP:GRP_ADM:carlos;maria;joao_
+USERS_GROUP:GRP_VEN:debora;sebastiana;roberto
+USERS_GROUP:GRP_SEC:josefina;amanda;rogerio
 
 
 #Work Directories

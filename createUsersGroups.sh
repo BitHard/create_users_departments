@@ -156,7 +156,8 @@ function createWorkDirectories() {
 
 function setPrimaryGroup() {
     logInfo "Set primaries groups for users."
-    for user in "${usersToGroup[@]}"; do
+    IFS=';' read -r -a primaryGroupUsers <<< "$usersToGroup"
+    for user in "${primaryGroupusers[@]}"; do
         if id "$user" &>/dev/null; then
             if sudo usermod -g "$groupName" "$user"; then
                 logOk "User $user set in primary group $groupName."
@@ -226,8 +227,8 @@ while IFS= read -r line; do
 
   if [[ "$cleanLine" == USERS_GROUP:* ]]; then
     groupName=$(cut -d':' -f2 <<< "$cleanLine")
-    usersToGroup=$(cut -d':' -f3 <<< "$cleanLine")
-    IFS=',' read -r -a usersToGroup <<< "$usersToGroup"
+    usersToGroup+=$(cut -d':' -f3 <<< "$cleanLine")
+    #IFS=',' read -r -a usersToGroup <<< "$usersToGroup"
   fi
 
   if [[ "$cleanLine" == PERM:* ]]; then
