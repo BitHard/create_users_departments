@@ -96,7 +96,7 @@ function removeGroups() {
     usersInGroup=$(getent group "$group" | cut -d: -f4)
     usuarios_csv=$(echo "$linha" | cut -d: -f4)
 
-    if userdel -r "$group" 2> /dev/null; then
+    if groupdel -r "$group" 2> /dev/null; then
         logOk "Group '$group' removed." 
     else
         logInfo "Removing group: '$group'. Group doesn't exist."
