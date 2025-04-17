@@ -242,8 +242,8 @@ removeUsers
 removeGroups
 removeWorkDirectories
 
-createUsers
 createGroups
+createUsers
 createWorkDirectories
 
 setPrimaryGroup
