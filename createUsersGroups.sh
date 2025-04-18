@@ -94,11 +94,14 @@ function removeGroups() {
   logInfo "Search and removing old groups..."  
 
   for currentGroup in "${groupsList[@]}"; do
-
-    if groupdel -r "$currentGroup" 2> /dev/null; then
+    if getent group "$currentGroup" &> /dev/null; then
+      if sudo groupdel "$currentGroup" &> /dev/null; then
         logOk "\t + Group '$currentGroup' removed." 
+      else
+        logFail "\t + Failed to remove group '$currentGroup'. It may be in use (e.g., primary group of a user)."
+      fi
     else
-        logInfo "\t + Removing group: '$currentGroup'. Group doesn't exist."
+      logInfo "\t + Group '$currentGroup' does not exist."
     fi
   done
 }
@@ -180,14 +183,14 @@ function setPermissions() {
     IFS=';' read -r directoryPath owner groupOwner permOwner permGroup permOthers <<< "$currentSetPermissions"
 
     # Change owner an group of directory
-    if chown "$owner":"$groupOwner" "$dirPath" &>/dev/null; then
+    if sudo chown "$owner":"$groupOwner" "$dirPath" &>/dev/null; then
       logOk "\t + Change $owner and $groupOwner for $directoryPath"
     else
       logFail "\t + Error in change permissions: $owner and $groupOwner for $directoryPath"
     fi
         
     # Set permission properties
-    if chmod u="$permOwner",g="$permGroup",o="$permOthers" "$directoryPath" $>/dev/null; then
+    if sudo chmod u="$permOwner",g="$permGroup",o="$permOthers" "$directoryPath" $>/dev/null; then
       logOk "\t + Apply permission in $directoryPath → $permOwner/$permGroup/$permOthers"
     else
       logFail "\t + Error to apply permission in $directoryPath"
