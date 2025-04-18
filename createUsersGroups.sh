@@ -110,10 +110,25 @@ function removeGroups() {
 function createUsers() {
   logInfo "Creating users..."  
   for user in "${usersList[@]}"; do
-    if sudo useradd -m -s "/bin/bash" $user; then
-        logOk "\t + User '$user' created."
+    if id "$user" &>/dev/null; then
+      logInfo "\t + User '$user' already exists."
+      continue
+    fi
+
+    if getent group "$user" &>/dev/null; then
+      # Group name with the same username. User like primary group.
+      if sudo useradd -m -s "/bin/bash" -g "$user" "$user" &>/dev/null; then
+        logOk "\t + User '$user' created with existing group '$user'."
+      else
+        logFail "\t + Failed to create user '$user' with group '$user'."
+      fi
     else
-        logFail "\t + Error to create user '$user'."
+      # Group name with the same username doesn't exist. Create user.
+      if sudo useradd -m -s "/bin/bash" "$user" &>/dev/null; then
+        logOk "\t + User '$user' created."
+      else
+        logFail "\t + Failed to create user '$user'."
+      fi
     fi
   done
 }
@@ -271,9 +286,10 @@ removeUsers
 removeGroups
 removeWorkDirectories
 
+createWorkDirectories
 createGroups
 createUsers
-createWorkDirectories
+
 
 setPrimaryGroup
 setPermissions
