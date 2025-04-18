@@ -198,14 +198,14 @@ function setPermissions() {
     IFS=';' read -r directoryPath owner groupOwner permOwner permGroup permOthers <<< "$currentSetPermissions"
 
     # Change owner an group of directory
-    if sudo chown "$owner":"$groupOwner" "$dirPath" &>/dev/null; then
+    if sudo chown "$owner":"$groupOwner" "$directoryPath" &>/dev/null; then
       logOk "\t + Change $owner and $groupOwner for $directoryPath"
     else
-      logFail "\t + Error in change permissions: $owner and $groupOwner for $directoryPath"
+      logFail "\t + Error in change permissions: $owner:$groupOwner for $directoryPath"
     fi
         
     # Set permission properties
-    if sudo chmod u="$permOwner",g="$permGroup",o="$permOthers" "$directoryPath" $>/dev/null; then
+    if sudo chmod u="$permOwner",g="$permGroup",o="$permOthers" "$directoryPath" &>/dev/null; then
       logOk "\t + Apply permission in $directoryPath → $permOwner/$permGroup/$permOthers"
     else
       logFail "\t + Error to apply permission in $directoryPath"
