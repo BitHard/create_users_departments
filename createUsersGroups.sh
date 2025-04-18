@@ -14,19 +14,18 @@
 sourceFile="users_and_groups_list.txt"
 logFile="logFile-$(date +%Y-%m-%d).log"
 
-# Cores
+# Text Output Colors
 GREEN='\033[1;32m'
 RED='\033[1;31m'
 YELLOW='\033[1;33m'
-NC='\033[0m' # No Color
+NC='\033[0m' # No Color (Default)
 
 # Arrays
-usersList=()
-groupsList=()
-workDirectoriesList=()
+usersList=()              # Users list to be created. Param: USER
+groupsList=()             # Groups list to be created. Param: GROUP
+workDirectoriesList=()    # Workdirectories list to be created. Param: DIR
+groupNameEntries=()       # Correlatinh users in GROUPS. Param: USERS_GROUP
 permList=()
-
-groupName=""
 usersToGroup=()
 
 # =========
@@ -35,7 +34,7 @@ usersToGroup=()
 
 # Timestamp
 function timestamp() {
-  date +"%Y-%m-%d %H:%M:%S"
+  date +"%Y-%m-%d %H:%M:%S.%N"
 }
 
 # Log - Success
@@ -77,12 +76,13 @@ function checkPrivileges() {
 }
 
 function removeUsers() {
-  logInfo "Search and removing users..."  
+  logInfo "Search and removing users..."
+  
   for user in "${usersList[@]}"; do
     if userdel -r "$user" 2> /dev/null; then
-        logOk "User '$user' removed."
+        logOk "\t + User '$user' removed."
     else
-        logInfo "Removing user: '$user'. User doesn't exist."
+        logInfo "\t + Removing user: '$user'. User doesn't exist."
     fi
   done
 
@@ -92,14 +92,13 @@ function removeUsers() {
 # ===================
 function removeGroups() {
   logInfo "Search and removing old groups..."  
-  for group in "${groupsList[@]}"; do
-    usersInGroup=$(getent group "$group" | cut -d: -f4)
-    usuarios_csv=$(echo "$linha" | cut -d: -f4)
 
-    if groupdel -r "$group" 2> /dev/null; then
-        logOk "Group '$group' removed." 
+  for currentGroup in "${groupsList[@]}"; do
+
+    if groupdel -r "$currentGroup" 2> /dev/null; then
+        logOk "\t + Group '$currentGroup' removed." 
     else
-        logInfo "Removing group: '$group'. Group doesn't exist."
+        logInfo "\t + Removing group: '$currentGroup'. Group doesn't exist."
     fi
   done
 }
@@ -109,21 +108,21 @@ function createUsers() {
   logInfo "Creating users..."  
   for user in "${usersList[@]}"; do
     if sudo useradd -m -s "/bin/bash" $user; then
-        logOk "User '$user' created."
+        logOk "\t + User '$user' created."
     else
-        logFail "Error to create user '$user'."
+        logFail "\t + Error to create user '$user'."
     fi
   done
 }
 
 function createGroups() {
   logInfo "Creating groups..."  
-  for group in "${groupsList[@]}"; do
+  for currentGroup in "${groupsList[@]}"; do
     
-    if sudo groupadd "$group"; then
-        logOk "Group '$group' created." 
+    if sudo groupadd "$currentGroup"; then
+        logOk "\t + Group '$currentGroup' created." 
     else
-        logFail "Error to create '$group'."
+        logFail "\t + Error to create '$currentGroup'."
     fi
   done
 
@@ -135,9 +134,9 @@ function removeWorkDirectories() {
     if [[ -d "$directory" ]]; then
         logInfo "Cleaning directory '$directory'"
         [[ -n "$directory" ]] && rm -rf "$directory"
-        logOk "Directory '$directory' removed."
+        logOk "\t + $directory : removed."
     else
-        logInfo "The directory '$directory' doesn't exist."
+        logInfo "\t + $directory : doesn't exist."
     fi
   done
 }
@@ -147,51 +146,74 @@ function createWorkDirectories() {
   logInfo "Creating work directories..."  
   for directory in "${workDirectoriesList[@]}"; do
     if mkdir -p "$directory"; then
-        logOk "Directory '$directory' created."
+        logOk "\t + $directory created."
     else
-        logFail "Error to create directory '$directory'."
+        logFail "\t + Error to create directory '$directory'."
     fi
   done
 }
 
 function setPrimaryGroup() {
     logInfo "Set primaries groups for users."
-    IFS=';' read -r -a primaryGroupUsers <<< "$usersToGroup"
-    for user in "${primaryGroupusers[@]}"; do
-        if id "$user" &>/dev/null; then
-            if sudo usermod -g "$groupName" "$user"; then
-                logOk "User $user set in primary group $groupName."
-            fi
-        else
-            logFail "User $user doesn't found."
-        fi
+    for currentGroup in "${usersToGroup[@]}"; do
+        IFS=';' read -ra groupArray <<< "$currentGroup"
+
+        IFS=',' usersInGroup="${groupArray[*]:1}"
+        read -r -a primaryGroupUsers <<< "$usersToGroup"
+    
+        IFS=',' read -ra usersArray <<< "$usersInGroup"
+        for currentUserSetPrimaryGroup in "${usersArray[@]}"; do          
+          if sudo usermod -g "${groupArray[0]}" "${currentUserSetPrimaryGroup}" &>/dev/null; then
+            logOk "\t + Set primary group ${groupArray[0]} to $currentUserSetPrimaryGroup"
+          else
+            logFail "\t + Error to set primary group ${groupArray[0]} for user $currentUserSetPrimaryGroup"
+          fi          
+        done
+
     done
 }
 
 
 function setPermissions() {
   logInfo "Setting permissions for the directories."
-  IFS='|' read -r listPermission <<< "$permInfo"
-      for permissionLine in "${listPermission[@]}"; do
-        IFS=';' read -r dirPath owner group permUser permGroup permOthers <<< "$entry"
+  for currentSetPermissions in "${permInfo[@]}"; do
+    IFS=';' read -r directoryPath owner groupOwner permOwner permGroup permOthers <<< "$currentSetPermissions"
 
-        # Change owner an group of directory
-        if chown "$owner":"$group" "$dirPath" &>/dev/null; then
-          logOk "Change $owner and $group for $dirPath"
-        else
-          logFail "Error in change permissions: $owner and $group for $dirPath."
-        fi
+    # Change owner an group of directory
+    if chown "$owner":"$groupOwner" "$dirPath" &>/dev/null; then
+      logOk "\t + Change $owner and $groupOwner for $directoryPath"
+    else
+      logFail "\t + Error in change permissions: $owner and $groupOwner for $directoryPath"
+    fi
         
-        # Set permission properties
-        if chmod u="$permUser",g="$permGroup",o="$permOthers" "$dirPath" $>/dev/null; then
-          logOk "Apply permission in $dirPath → $permUser/$permGroup/$permOthers"
-        else
-          logFail "Error to apply permission in $dirPath."
-        fi
-    done
-
+    # Set permission properties
+    if chmod u="$permOwner",g="$permGroup",o="$permOthers" "$directoryPath" $>/dev/null; then
+      logOk "\t + Apply permission in $directoryPath → $permOwner/$permGroup/$permOthers"
+    else
+      logFail "\t + Error to apply permission in $directoryPath"
+    fi
+  done
 }
 
+
+function getConfigFileInformatio() {
+  logInfo "Collecting users to create."
+  logInfo "\t + USERS.: $usersList"
+  logInfo "Collecting groups to create."
+  logInfo "\t + GROUPS.: $groupsList"
+  logInfo "Collecting work directories to create."
+  logInfo "\t + DIR.: $workDirectoriesList"
+  logInfo "Correlating groups and users."
+
+  for currentSetUsers in "${usersToGroup[@]}"; do
+    logInfo "\t + ${currentSetUsers%%;*}: ${currentSetUsers#*;}"
+  done
+
+  logInfo "Getting permissions to work directories."
+  for currentSetPermissions in "${permInfo[@]}"; do
+    logInfo "\t + ${currentSetPermissions%%;*}: ${currentSetPermissions#*;}"
+  done
+}
 
 # ====
 # MAIN
@@ -199,8 +221,9 @@ function setPermissions() {
 
 clear
 checkPrivileges
-
+logInfo "---------------------------------------------"
 logInfo "Starting program $0"
+logInfo "---------------------------------------------"
 logInfo "Reading file ['$sourceFile']"
 
 while IFS= read -r line; do
@@ -222,22 +245,25 @@ while IFS= read -r line; do
 
 # Check if the line define a work directorie
   if [[ "$cleanLine" == DIR:* ]]; then
-    workDirectoriesList+=(${cleanLine#DIR:})
+    workDirectoriesList+=(${cleanLine#DIR:});
   fi
 
   if [[ "$cleanLine" == USERS_GROUP:* ]]; then
-    groupName=$(cut -d':' -f2 <<< "$cleanLine")
-    usersToGroup+=$(cut -d':' -f3 <<< "$cleanLine")
-    #IFS=',' read -r -a usersToGroup <<< "$usersToGroup"
+    usersToGroup+=(${cleanLine#USERS_GROUP:})
   fi
 
   if [[ "$cleanLine" == PERM:* ]]; then
-    permInfo+=${cleanLine#PERM:}\|
+    permInfo+=(${cleanLine#PERM:})
   fi
 
 done < "$sourceFile"
 
+# Call functions
 
+# Informations About File Config
+getConfigFileInformatio
+
+# Removing old users, groups and directories
 removeUsers
 removeGroups
 removeWorkDirectories

@@ -1,0 +1,1843 @@
+2025-04-18 07:45:24.545026105 [INFO] ---------------------------------------------
+2025-04-18 07:45:24.547095274 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 07:45:24.548398072 [INFO] ---------------------------------------------
+2025-04-18 07:45:24.549444907 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 07:45:24.551368785 [INFO] Collecting users to create.
+2025-04-18 07:45:24.552858756 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 07:45:24.553883377 [INFO] Collecting groups to create.
+2025-04-18 07:45:24.555232950 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 07:45:24.556502433 [INFO] Collecting work directories to create.
+2025-04-18 07:45:24.557642784 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 07:45:24.558894650 [INFO] Correlating groups and users.
+2025-04-18 07:45:24.560273294 [INFO] 	 + GRP_ADM;carlos;maria;joao_: RP_ADM;carlos;maria;joao_
+2025-04-18 07:46:26.695576049 [INFO] ---------------------------------------------
+2025-04-18 07:46:26.698374512 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 07:46:26.702146856 [INFO] ---------------------------------------------
+2025-04-18 07:46:26.705636489 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 07:46:26.710579547 [INFO] Collecting users to create.
+2025-04-18 07:46:26.713740223 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 07:46:26.716679079 [INFO] Collecting groups to create.
+2025-04-18 07:46:26.719737822 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 07:46:26.722616631 [INFO] Collecting work directories to create.
+2025-04-18 07:46:26.725756086 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 07:46:26.728510816 [INFO] Correlating groups and users.
+2025-04-18 07:47:09.259102833 [INFO] ---------------------------------------------
+2025-04-18 07:47:09.262135689 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 07:47:09.264925924 [INFO] ---------------------------------------------
+2025-04-18 07:47:09.267472600 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 07:47:09.271059130 [INFO] Collecting users to create.
+2025-04-18 07:47:09.273275807 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 07:47:09.275452366 [INFO] Collecting groups to create.
+2025-04-18 07:47:09.277595208 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 07:47:09.279200757 [INFO] Collecting work directories to create.
+2025-04-18 07:47:09.280763008 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 07:47:09.282314272 [INFO] Correlating groups and users.
+2025-04-18 07:47:30.012849795 [INFO] ---------------------------------------------
+2025-04-18 07:47:30.014875842 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 07:47:30.016967083 [INFO] ---------------------------------------------
+2025-04-18 07:47:30.019145855 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 07:47:30.022260641 [INFO] Collecting users to create.
+2025-04-18 07:47:30.024735566 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 07:47:30.027425409 [INFO] Collecting groups to create.
+2025-04-18 07:47:30.030008410 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 07:47:30.032688406 [INFO] Collecting work directories to create.
+2025-04-18 07:47:30.035277588 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 07:47:30.038308822 [INFO] Correlating groups and users.
+2025-04-18 07:50:44.898877866 [INFO] ---------------------------------------------
+2025-04-18 07:50:44.901820798 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 07:50:44.904749819 [INFO] ---------------------------------------------
+2025-04-18 07:50:44.907600896 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 07:50:44.912113448 [INFO] Collecting users to create.
+2025-04-18 07:50:44.915135678 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 07:50:44.918139114 [INFO] Collecting groups to create.
+2025-04-18 07:50:44.921306880 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 07:50:44.923958020 [INFO] Collecting work directories to create.
+2025-04-18 07:50:44.926619142 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 07:50:44.929068953 [INFO] Correlating groups and users.
+2025-04-18 07:52:23.894187272 [INFO] ---------------------------------------------
+2025-04-18 07:52:23.897005656 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 07:52:23.899364054 [INFO] ---------------------------------------------
+2025-04-18 07:52:23.901882903 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 07:52:23.905577078 [INFO] Collecting users to create.
+2025-04-18 07:52:23.908147745 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 07:52:23.910383061 [INFO] Collecting groups to create.
+2025-04-18 07:52:23.912389399 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 07:52:23.914377885 [INFO] Collecting work directories to create.
+2025-04-18 07:52:23.916475626 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 07:52:23.918498720 [INFO] Correlating groups and users.
+2025-04-18 07:52:23.920697134 [INFO] 	 + GRP_ADM;carlos;maria;joao_: RP_ADM;carlos;maria;joao_
+2025-04-18 07:52:23.922957280 [INFO] 	 + GRP_VEN;debora;sebastiana;roberto: RP_VEN;debora;sebastiana;roberto
+2025-04-18 07:52:23.925305519 [INFO] 	 + GRP_SEC;josefina;amanda;rogerio: RP_SEC;josefina;amanda;rogerio
+2025-04-18 08:28:49.606152704 [INFO] ---------------------------------------------
+2025-04-18 08:28:49.609176302 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:28:49.612163138 [INFO] ---------------------------------------------
+2025-04-18 08:28:49.615229556 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:28:49.620222782 [INFO] Collecting users to create.
+2025-04-18 08:28:49.623700709 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:28:49.626581925 [INFO] Collecting groups to create.
+2025-04-18 08:28:49.629200729 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:28:49.631879712 [INFO] Collecting work directories to create.
+2025-04-18 08:28:49.634122319 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:28:49.636560282 [INFO] Correlating groups and users.
+2025-04-18 08:29:09.086492972 [INFO] ---------------------------------------------
+2025-04-18 08:29:09.089632145 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:29:09.092518873 [INFO] ---------------------------------------------
+2025-04-18 08:29:09.095400724 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:29:09.099895674 [INFO] Collecting users to create.
+2025-04-18 08:29:09.103064314 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:29:09.105995213 [INFO] Collecting groups to create.
+2025-04-18 08:29:09.108767993 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:29:09.111137627 [INFO] Collecting work directories to create.
+2025-04-18 08:29:09.113943866 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:29:09.116529717 [INFO] Correlating groups and users.
+2025-04-18 08:31:54.367369233 [INFO] ---------------------------------------------
+2025-04-18 08:31:54.370130160 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:31:54.372779997 [INFO] ---------------------------------------------
+2025-04-18 08:31:54.375347494 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:31:54.379295768 [INFO] Collecting users to create.
+2025-04-18 08:31:54.381955341 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:31:54.384986218 [INFO] Collecting groups to create.
+2025-04-18 08:31:54.387494408 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:31:54.389826724 [INFO] Collecting work directories to create.
+2025-04-18 08:31:54.392648974 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:31:54.395477407 [INFO] Correlating groups and users.
+2025-04-18 08:35:40.066419153 [INFO] ---------------------------------------------
+2025-04-18 08:35:40.069305362 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:35:40.072100284 [INFO] ---------------------------------------------
+2025-04-18 08:35:40.074874883 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:35:40.078788256 [INFO] Collecting users to create.
+2025-04-18 08:35:40.081450016 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:35:40.084139104 [INFO] Collecting groups to create.
+2025-04-18 08:35:40.086969573 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:35:40.089640279 [INFO] Collecting work directories to create.
+2025-04-18 08:35:40.091975021 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:35:40.093915527 [INFO] Correlating groups and users.
+2025-04-18 08:35:40.096392773 [INFO] 	 + GRP_ADM: carlos
+2025-04-18 08:41:11.059839283 [INFO] ---------------------------------------------
+2025-04-18 08:41:11.062394196 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:41:11.065214242 [INFO] ---------------------------------------------
+2025-04-18 08:41:11.067862875 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:41:11.071913903 [INFO] Collecting users to create.
+2025-04-18 08:41:11.074336089 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:41:11.076628617 [INFO] Collecting groups to create.
+2025-04-18 08:41:11.078658112 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:41:11.080585453 [INFO] Collecting work directories to create.
+2025-04-18 08:41:11.082512454 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:41:11.084334455 [INFO] Correlating groups and users.
+2025-04-18 08:41:11.086014711 [INFO] 	 + GRP_ADM: carlos
+2025-04-18 08:42:58.948172368 [INFO] ---------------------------------------------
+2025-04-18 08:42:58.950595010 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:42:58.952862456 [INFO] ---------------------------------------------
+2025-04-18 08:42:58.954911433 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:42:58.958036953 [INFO] Collecting users to create.
+2025-04-18 08:42:58.959488142 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:42:58.960663451 [INFO] Collecting groups to create.
+2025-04-18 08:42:58.961666783 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:42:58.963057834 [INFO] Collecting work directories to create.
+2025-04-18 08:42:58.964341585 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:42:58.965815361 [INFO] Correlating groups and users.
+2025-04-18 08:42:58.967631408 [INFO] 	 + GRP_ADM: carlos
+2025-04-18 08:42:58.968734583 [INFO] 	 + GRP_ADM: carlos
+2025-04-18 08:44:44.417669538 [INFO] ---------------------------------------------
+2025-04-18 08:44:44.420693580 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:44:44.423585621 [INFO] ---------------------------------------------
+2025-04-18 08:44:44.426735050 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:44:44.431257605 [INFO] Collecting users to create.
+2025-04-18 08:44:44.434524682 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:44:44.437278183 [INFO] Collecting groups to create.
+2025-04-18 08:44:44.439848581 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:44:44.442717881 [INFO] Collecting work directories to create.
+2025-04-18 08:44:44.445065890 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:44:44.447173468 [INFO] Correlating groups and users.
+2025-04-18 08:44:44.449590827 [INFO] 	 + GRP_ADM: carlos
+2025-04-18 08:44:44.451810454 [INFO] 	 + GRP_ADM: carlos
+2025-04-18 08:48:26.763058632 [INFO] ---------------------------------------------
+2025-04-18 08:48:26.766062071 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:48:26.768882934 [INFO] ---------------------------------------------
+2025-04-18 08:48:26.771555713 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:48:26.775582369 [INFO] Collecting users to create.
+2025-04-18 08:48:26.778187845 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:48:26.780944269 [INFO] Collecting groups to create.
+2025-04-18 08:48:26.783367020 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:48:26.785454051 [INFO] Collecting work directories to create.
+2025-04-18 08:48:26.787384811 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:48:26.789266469 [INFO] Correlating groups and users.
+2025-04-18 08:48:58.572535642 [INFO] ---------------------------------------------
+2025-04-18 08:48:58.575398468 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:48:58.578159174 [INFO] ---------------------------------------------
+2025-04-18 08:48:58.580915919 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:48:58.585000119 [INFO] Collecting users to create.
+2025-04-18 08:48:58.587465452 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:48:58.590262421 [INFO] Collecting groups to create.
+2025-04-18 08:48:58.592927700 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:48:58.595676518 [INFO] Collecting work directories to create.
+2025-04-18 08:48:58.598057239 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:48:58.600405725 [INFO] Correlating groups and users.
+2025-04-18 08:49:59.335377502 [INFO] ---------------------------------------------
+2025-04-18 08:49:59.338292027 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 08:49:59.341344502 [INFO] ---------------------------------------------
+2025-04-18 08:49:59.343947475 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 08:49:59.348032555 [INFO] Collecting users to create.
+2025-04-18 08:49:59.350527651 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 08:49:59.353654814 [INFO] Collecting groups to create.
+2025-04-18 08:49:59.356189299 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 08:49:59.358428349 [INFO] Collecting work directories to create.
+2025-04-18 08:49:59.360703139 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 08:49:59.362932493 [INFO] Correlating groups and users.
+2025-04-18 10:13:43.396104688 [INFO] ---------------------------------------------
+2025-04-18 10:13:43.397266537 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 10:13:43.399603639 [INFO] ---------------------------------------------
+2025-04-18 10:13:43.400877424 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 10:13:43.402825232 [INFO] Collecting users to create.
+2025-04-18 10:13:43.403921776 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 10:13:43.404788904 [INFO] Collecting groups to create.
+2025-04-18 10:13:43.405625931 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 10:13:43.406842232 [INFO] Collecting work directories to create.
+2025-04-18 10:13:43.407854935 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 10:13:43.408725722 [INFO] Correlating groups and users.
+2025-04-18 10:14:42.334513191 [INFO] ---------------------------------------------
+2025-04-18 10:14:42.337213165 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 10:14:42.339913004 [INFO] ---------------------------------------------
+2025-04-18 10:14:42.342518823 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 10:14:42.346420477 [INFO] Collecting users to create.
+2025-04-18 10:14:42.349087758 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 10:14:42.351895317 [INFO] Collecting groups to create.
+2025-04-18 10:14:42.354671139 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 10:14:42.357437854 [INFO] Collecting work directories to create.
+2025-04-18 10:14:42.360279614 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 10:14:42.363045578 [INFO] Correlating groups and users.
+2025-04-18 10:14:58.967936597 [INFO] ---------------------------------------------
+2025-04-18 10:14:58.970490864 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 10:14:58.973486521 [INFO] ---------------------------------------------
+2025-04-18 10:14:58.976155846 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 10:14:58.980234112 [INFO] Collecting users to create.
+2025-04-18 10:14:58.982947179 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 10:14:58.985577318 [INFO] Collecting groups to create.
+2025-04-18 10:14:58.987753554 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 10:14:58.989624274 [INFO] Collecting work directories to create.
+2025-04-18 10:14:58.991466294 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 10:14:58.993126492 [INFO] Correlating groups and users.
+2025-04-18 10:15:15.255061480 [INFO] ---------------------------------------------
+2025-04-18 10:15:15.257763377 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 10:15:15.260031467 [INFO] ---------------------------------------------
+2025-04-18 10:15:15.262258425 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 10:15:15.266160578 [INFO] Collecting users to create.
+2025-04-18 10:15:15.268873971 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 10:15:15.271403691 [INFO] Collecting groups to create.
+2025-04-18 10:15:15.273873893 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 10:15:15.276575210 [INFO] Collecting work directories to create.
+2025-04-18 10:15:15.279310846 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 10:15:15.282009027 [INFO] Correlating groups and users.
+2025-04-18 10:15:45.088341364 [INFO] ---------------------------------------------
+2025-04-18 10:15:45.090994700 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 10:15:45.093837885 [INFO] ---------------------------------------------
+2025-04-18 10:15:45.096524498 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 10:15:45.100548805 [INFO] Collecting users to create.
+2025-04-18 10:15:45.103327667 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 10:15:45.105822482 [INFO] Collecting groups to create.
+2025-04-18 10:15:45.108223506 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 10:15:45.109829363 [INFO] Collecting work directories to create.
+2025-04-18 10:15:45.111344138 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 10:15:45.113066736 [INFO] Correlating groups and users.
+2025-04-18 10:15:57.699058176 [INFO] ---------------------------------------------
+2025-04-18 10:15:57.701847684 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 10:15:57.704733578 [INFO] ---------------------------------------------
+2025-04-18 10:15:57.707428815 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 10:15:57.711929202 [INFO] Collecting users to create.
+2025-04-18 10:15:57.714532568 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 10:15:57.717197885 [INFO] Collecting groups to create.
+2025-04-18 10:15:57.719276150 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 10:15:57.721673256 [INFO] Collecting work directories to create.
+2025-04-18 10:15:57.723916954 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 10:15:57.725750716 [INFO] Correlating groups and users.
+2025-04-18 10:16:26.587735722 [INFO] ---------------------------------------------
+2025-04-18 10:16:26.590786741 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 10:16:26.593817088 [INFO] ---------------------------------------------
+2025-04-18 10:16:26.596609668 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 10:16:26.600839465 [INFO] Collecting users to create.
+2025-04-18 10:16:26.603645246 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 10:16:26.606698782 [INFO] Collecting groups to create.
+2025-04-18 10:16:26.609499460 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 10:16:26.612115030 [INFO] Collecting work directories to create.
+2025-04-18 10:16:26.614405810 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 10:16:26.616297748 [INFO] Correlating groups and users.
+2025-04-18 12:10:54.925915369 [INFO] ---------------------------------------------
+2025-04-18 12:10:54.927464855 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:10:54.928984617 [INFO] ---------------------------------------------
+2025-04-18 12:10:54.930167384 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:10:54.932504329 [INFO] Collecting users to create.
+2025-04-18 12:10:54.933982552 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:10:54.935482623 [INFO] Collecting groups to create.
+2025-04-18 12:10:54.936835529 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:10:54.937861476 [INFO] Collecting work directories to create.
+2025-04-18 12:10:54.939264057 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:10:54.940387415 [INFO] Correlating groups and users.
+2025-04-18 12:11:26.820022341 [INFO] ---------------------------------------------
+2025-04-18 12:11:26.822486167 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:11:26.825254053 [INFO] ---------------------------------------------
+2025-04-18 12:11:26.828101989 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:11:26.831853095 [INFO] Collecting users to create.
+2025-04-18 12:11:26.834491723 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:11:26.836779022 [INFO] Collecting groups to create.
+2025-04-18 12:11:26.838898606 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:11:26.840792532 [INFO] Collecting work directories to create.
+2025-04-18 12:11:26.842504873 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:11:26.844582381 [INFO] Correlating groups and users.
+2025-04-18 12:11:52.112894266 [INFO] ---------------------------------------------
+2025-04-18 12:11:52.115520060 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:11:52.118260671 [INFO] ---------------------------------------------
+2025-04-18 12:11:52.121094852 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:11:52.125404139 [INFO] Collecting users to create.
+2025-04-18 12:11:52.128459324 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:11:52.130777514 [INFO] Collecting groups to create.
+2025-04-18 12:11:52.133382018 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:11:52.135631092 [INFO] Collecting work directories to create.
+2025-04-18 12:11:52.138079059 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:11:52.140225901 [INFO] Correlating groups and users.
+2025-04-18 12:12:07.926964079 [INFO] ---------------------------------------------
+2025-04-18 12:12:07.929373944 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:12:07.931741046 [INFO] ---------------------------------------------
+2025-04-18 12:12:07.934225357 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:12:07.937503070 [INFO] Collecting users to create.
+2025-04-18 12:12:07.939670391 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:12:07.941993761 [INFO] Collecting groups to create.
+2025-04-18 12:12:07.944321938 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:12:07.946686752 [INFO] Collecting work directories to create.
+2025-04-18 12:12:07.948737732 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:12:07.950524170 [INFO] Correlating groups and users.
+2025-04-18 12:12:35.147581384 [INFO] ---------------------------------------------
+2025-04-18 12:12:35.150235302 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:12:35.153019720 [INFO] ---------------------------------------------
+2025-04-18 12:12:35.155509327 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:12:35.159589138 [INFO] Collecting users to create.
+2025-04-18 12:12:35.162331895 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:12:35.165124027 [INFO] Collecting groups to create.
+2025-04-18 12:12:35.167430348 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:12:35.169652534 [INFO] Collecting work directories to create.
+2025-04-18 12:12:35.171836068 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:12:35.174017371 [INFO] Correlating groups and users.
+2025-04-18 12:12:43.382161520 [INFO] ---------------------------------------------
+2025-04-18 12:12:43.384946250 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:12:43.387597837 [INFO] ---------------------------------------------
+2025-04-18 12:12:43.390248326 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:12:43.394320577 [INFO] Collecting users to create.
+2025-04-18 12:12:43.397060393 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:12:43.400171703 [INFO] Collecting groups to create.
+2025-04-18 12:12:43.403460259 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:12:43.406310222 [INFO] Collecting work directories to create.
+2025-04-18 12:12:43.409187099 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:12:43.411631760 [INFO] Correlating groups and users.
+2025-04-18 12:15:28.696991739 [INFO] ---------------------------------------------
+2025-04-18 12:15:28.699372297 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:15:28.702130583 [INFO] ---------------------------------------------
+2025-04-18 12:15:28.704566681 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:15:28.708725767 [INFO] Collecting users to create.
+2025-04-18 12:15:28.711502188 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:15:28.714164870 [INFO] Collecting groups to create.
+2025-04-18 12:15:28.716923569 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:15:28.719419248 [INFO] Collecting work directories to create.
+2025-04-18 12:15:28.721874325 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:15:28.724442598 [INFO] Correlating groups and users.
+2025-04-18 12:15:28.727103701 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:15:28.729724166 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:15:28.732009577 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:16:04.862500549 [INFO] ---------------------------------------------
+2025-04-18 12:16:04.864655109 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:16:04.866601844 [INFO] ---------------------------------------------
+2025-04-18 12:16:04.868592073 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:16:04.871598211 [INFO] Collecting users to create.
+2025-04-18 12:16:04.873534211 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:16:04.875297491 [INFO] Collecting groups to create.
+2025-04-18 12:16:04.876897886 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:16:04.878349587 [INFO] Collecting work directories to create.
+2025-04-18 12:16:04.880511954 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:16:04.882447299 [INFO] Correlating groups and users.
+2025-04-18 12:16:04.884433221 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:16:04.886079008 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:16:04.888161577 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:17:03.380209676 [INFO] ---------------------------------------------
+2025-04-18 12:17:03.383082677 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:17:03.385901212 [INFO] ---------------------------------------------
+2025-04-18 12:17:03.388687318 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:17:03.392723913 [INFO] Collecting users to create.
+2025-04-18 12:17:03.395515945 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:17:03.398373584 [INFO] Collecting groups to create.
+2025-04-18 12:17:03.401541455 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:17:03.404310820 [INFO] Collecting work directories to create.
+2025-04-18 12:17:03.406907209 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:17:03.409375738 [INFO] Correlating groups and users.
+2025-04-18 12:17:03.411506967 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:17:03.413845988 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:17:03.416171506 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:18:49.517014726 [INFO] ---------------------------------------------
+2025-04-18 12:18:49.519158372 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:18:49.521584035 [INFO] ---------------------------------------------
+2025-04-18 12:18:49.524199806 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:18:49.528173035 [INFO] Collecting users to create.
+2025-04-18 12:18:49.531100952 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:18:49.534235324 [INFO] Collecting groups to create.
+2025-04-18 12:18:49.537305491 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:18:49.540178292 [INFO] Collecting work directories to create.
+2025-04-18 12:18:49.543318716 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:18:49.546367917 [INFO] Correlating groups and users.
+2025-04-18 12:18:49.549453355 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:18:49.552387534 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:18:49.555619248 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:18:49.558204353 [INFO] Getting permissions.
+2025-04-18 12:19:05.646677798 [INFO] ---------------------------------------------
+2025-04-18 12:19:05.649792524 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:19:05.652455131 [INFO] ---------------------------------------------
+2025-04-18 12:19:05.655043290 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:19:05.659948044 [INFO] Collecting users to create.
+2025-04-18 12:19:05.662535282 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:19:05.664831220 [INFO] Collecting groups to create.
+2025-04-18 12:19:05.667274998 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:19:05.669845755 [INFO] Collecting work directories to create.
+2025-04-18 12:19:05.672578271 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:19:05.675072988 [INFO] Correlating groups and users.
+2025-04-18 12:19:05.677405166 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:19:05.679738215 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:19:05.682100201 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:19:05.684270163 [INFO] Getting permissions.
+2025-04-18 12:21:45.254539129 [INFO] ---------------------------------------------
+2025-04-18 12:21:45.257303313 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:21:45.259770682 [INFO] ---------------------------------------------
+2025-04-18 12:21:45.262259682 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:21:45.265859158 [INFO] Collecting users to create.
+2025-04-18 12:21:45.268535507 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:21:45.270925558 [INFO] Collecting groups to create.
+2025-04-18 12:21:45.273332008 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:21:45.275440339 [INFO] Collecting work directories to create.
+2025-04-18 12:21:45.277453821 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:21:45.279324419 [INFO] Correlating groups and users.
+2025-04-18 12:21:45.281070430 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:21:45.282852336 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:21:45.284745542 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:21:45.286791494 [INFO] Getting permissions to work directories.
+2025-04-18 12:21:45.288854147 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:21:45.290991686 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:21:45.293011335 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:21:45.295009920 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:23:57.022747130 [INFO] ---------------------------------------------
+2025-04-18 12:23:57.025394546 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:23:57.028171885 [INFO] ---------------------------------------------
+2025-04-18 12:23:57.030544973 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:23:57.034087786 [INFO] Collecting users to create.
+2025-04-18 12:23:57.036381894 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:23:57.038767093 [INFO] Collecting groups to create.
+2025-04-18 12:23:57.041098663 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:23:57.043250850 [INFO] Collecting work directories to create.
+2025-04-18 12:23:57.045392754 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:23:57.047605551 [INFO] Correlating groups and users.
+2025-04-18 12:23:57.049688983 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:23:57.052028061 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:23:57.053938535 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:23:57.055819331 [INFO] Getting permissions to work directories.
+2025-04-18 12:23:57.057427593 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:23:57.059171627 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:23:57.060719264 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:23:57.062013576 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:23:57.063915011 [INFO] Search and removing users...
+2025-04-18 12:23:57.067654467 [INFO] Removing user: 'carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;'. User doesn't exist.
+2025-04-18 12:23:57.069028015 [INFO] Search and removing old groups...
+2025-04-18 12:23:57.102725035 [INFO] Removing group: 'GRP_ADM;GRP_VEN;GRP_SEC;'. Group doesn't exist.
+2025-04-18 12:23:57.104102919 [INFO] Cleaning old directories...
+2025-04-18 12:23:57.105447646 [INFO] The directory '/publico;/adm;/ven;/sec;' doesn't exist.
+2025-04-18 12:25:47.917482627 [INFO] ---------------------------------------------
+2025-04-18 12:25:47.920370861 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:25:47.923127103 [INFO] ---------------------------------------------
+2025-04-18 12:25:47.925898631 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:25:47.929967663 [INFO] Collecting users to create.
+2025-04-18 12:25:47.932484031 [INFO] 	 + USERS.: carlos;maria;joao_;debora;sebastiana;roberto;josefina;amanda;rogerio;
+2025-04-18 12:25:47.934871716 [INFO] Collecting groups to create.
+2025-04-18 12:25:47.937115694 [INFO] 	 + GROUPS.: GRP_ADM;GRP_VEN;GRP_SEC;
+2025-04-18 12:25:47.939163588 [INFO] Collecting work directories to create.
+2025-04-18 12:25:47.941203071 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:25:47.943054507 [INFO] Correlating groups and users.
+2025-04-18 12:25:47.945223749 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:25:47.947231363 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:25:47.949149537 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:25:47.951111256 [INFO] Getting permissions to work directories.
+2025-04-18 12:25:47.953169446 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:25:47.954996855 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:25:47.956987869 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:25:47.958806782 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:25:47.960762390 [INFO] Search and removing users...
+2025-04-18 12:27:18.059716117 [INFO] ---------------------------------------------
+2025-04-18 12:27:18.062424638 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:27:18.065065264 [INFO] ---------------------------------------------
+2025-04-18 12:27:18.067647098 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:27:18.071436223 [INFO] Collecting users to create.
+2025-04-18 12:27:18.074316147 [INFO] 	 + USERS.: carlos
+2025-04-18 12:27:18.077046242 [INFO] Collecting groups to create.
+2025-04-18 12:27:18.079924504 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:27:18.082424278 [INFO] Collecting work directories to create.
+2025-04-18 12:27:18.084953281 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:27:18.087429025 [INFO] Correlating groups and users.
+2025-04-18 12:27:18.089826992 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:27:18.092249013 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:27:18.094378987 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:27:18.096707964 [INFO] Getting permissions to work directories.
+2025-04-18 12:27:18.098684604 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:27:18.100841518 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:27:18.102472221 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:27:18.104618375 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:27:18.106072321 [INFO] Search and removing users...
+2025-04-18 12:28:42.357293732 [INFO] ---------------------------------------------
+2025-04-18 12:28:42.359904804 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:28:42.362806727 [INFO] ---------------------------------------------
+2025-04-18 12:28:42.365518806 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:28:42.369761648 [INFO] Collecting users to create.
+2025-04-18 12:28:42.372471826 [INFO] 	 + USERS.: carlos
+2025-04-18 12:28:42.375536164 [INFO] Collecting groups to create.
+2025-04-18 12:28:42.378250659 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:28:42.380945528 [INFO] Collecting work directories to create.
+2025-04-18 12:28:42.383602197 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:28:42.386130670 [INFO] Correlating groups and users.
+2025-04-18 12:28:42.388609478 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:28:42.390847933 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:28:42.393259122 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:28:42.395420773 [INFO] Getting permissions to work directories.
+2025-04-18 12:28:42.397334799 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:28:42.399299473 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:28:42.401252422 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:28:42.403498171 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:28:42.405687774 [INFO] Search and removing users...
+2025-04-18 12:28:42.409084586 [INFO] Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:28:42.412307227 [INFO] Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:28:42.415654489 [INFO] Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:28:42.419204520 [INFO] Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:28:42.423067053 [INFO] Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:28:42.426644977 [INFO] Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:28:42.430335987 [INFO] Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:28:42.433508353 [INFO] Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:28:42.436616089 [INFO] Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:28:42.437924676 [INFO] Search and removing old groups...
+2025-04-18 12:28:42.467874552 [INFO] Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:28:42.469621080 [INFO] Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:28:42.471787049 [INFO] Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:28:42.472745692 [INFO] Cleaning old directories...
+2025-04-18 12:28:42.473685037 [INFO] The directory '/publico;/adm;/ven;/sec;' doesn't exist.
+2025-04-18 12:29:50.801081291 [INFO] ---------------------------------------------
+2025-04-18 12:29:50.803365830 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:29:50.805638281 [INFO] ---------------------------------------------
+2025-04-18 12:29:50.807874851 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:29:50.811391471 [INFO] Collecting users to create.
+2025-04-18 12:29:50.813631531 [INFO] 	 + USERS.: carlos
+2025-04-18 12:29:50.815832958 [INFO] Collecting groups to create.
+2025-04-18 12:29:50.818017865 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:29:50.820012090 [INFO] Collecting work directories to create.
+2025-04-18 12:29:50.821807808 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:29:50.823762612 [INFO] Correlating groups and users.
+2025-04-18 12:29:50.825248123 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:29:50.826896655 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:29:50.828577502 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:29:50.830084340 [INFO] Getting permissions to work directories.
+2025-04-18 12:29:50.831926791 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:29:50.833268939 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:29:50.834661417 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:29:50.836284759 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:29:50.837537694 [INFO] Search and removing users...
+2025-04-18 12:29:50.840751628 [INFO] Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:29:50.843719059 [INFO] Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:29:50.846672003 [INFO] Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:29:50.849732086 [INFO] Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:29:50.853351393 [INFO] Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:29:50.856688133 [INFO] Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:29:50.859627525 [INFO] Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:29:50.862882715 [INFO] Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:29:50.866021130 [INFO] Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:29:50.867823870 [INFO] Search and removing old groups...
+2025-04-18 12:29:50.870806348 [INFO] Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:29:50.873642084 [INFO] Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:29:50.876749079 [INFO] Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:29:50.878518141 [INFO] Cleaning old directories...
+2025-04-18 12:29:50.880154142 [INFO] The directory '/publico;/adm;/ven;/sec;' doesn't exist.
+2025-04-18 12:33:52.441226170 [INFO] ---------------------------------------------
+2025-04-18 12:33:52.443850415 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:33:52.446552237 [INFO] ---------------------------------------------
+2025-04-18 12:33:52.449228990 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:33:52.453286037 [INFO] Collecting users to create.
+2025-04-18 12:33:52.455763019 [INFO] 	 + USERS.: carlos
+2025-04-18 12:33:52.457869570 [INFO] Collecting groups to create.
+2025-04-18 12:33:52.460001373 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:33:52.461900623 [INFO] Collecting work directories to create.
+2025-04-18 12:33:52.464240748 [INFO] 	 + DIR.: /publico;/adm;/ven;/sec;
+2025-04-18 12:33:52.466602559 [INFO] Correlating groups and users.
+2025-04-18 12:33:52.468960417 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:33:52.471024405 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:33:52.473113109 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:33:52.475017105 [INFO] Getting permissions to work directories.
+2025-04-18 12:33:52.476992834 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:33:52.479023201 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:33:52.481301309 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:33:52.483218118 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:33:52.485567595 [INFO] Search and removing users...
+2025-04-18 12:33:52.490059028 [INFO] 	 + Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:33:52.493929942 [INFO] 	 + Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:33:52.498076958 [INFO] 	 + Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:33:52.502196009 [INFO] 	 + Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:33:52.506431994 [INFO] 	 + Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:33:52.511074890 [INFO] 	 + Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:33:52.515607439 [INFO] 	 + Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:33:52.520219441 [INFO] 	 + Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:33:52.524314243 [INFO] 	 + Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:33:52.526156657 [INFO] Search and removing old groups...
+2025-04-18 12:33:52.529096780 [INFO] 	 + Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:33:52.532132104 [INFO] 	 + Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:33:52.535068064 [INFO] 	 + Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:33:52.536987417 [INFO] Cleaning old directories...
+2025-04-18 12:33:52.538727602 [INFO] 	 + The directory '/publico;/adm;/ven;/sec;' doesn't exist.
+2025-04-18 12:36:13.528091599 [INFO] ---------------------------------------------
+2025-04-18 12:36:13.530272976 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:36:13.532530156 [INFO] ---------------------------------------------
+2025-04-18 12:36:13.534186070 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:36:13.536953853 [INFO] Collecting users to create.
+2025-04-18 12:36:13.538360096 [INFO] 	 + USERS.: carlos
+2025-04-18 12:36:13.540106419 [INFO] Collecting groups to create.
+2025-04-18 12:36:13.541756576 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:36:13.543416521 [INFO] Collecting work directories to create.
+2025-04-18 12:36:13.544969050 [INFO] 	 + DIR.: /publico
+2025-04-18 12:36:13.546611806 [INFO] Correlating groups and users.
+2025-04-18 12:36:13.548236242 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:36:13.549648705 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:36:13.551134397 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:36:13.552694823 [INFO] Getting permissions to work directories.
+2025-04-18 12:36:13.554170978 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:36:13.555762770 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:36:13.556996325 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:36:13.558328497 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:36:13.559712504 [INFO] Search and removing users...
+2025-04-18 12:36:13.561993570 [INFO] 	 + Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:36:13.564049458 [INFO] 	 + Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:36:13.566209235 [INFO] 	 + Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:36:13.568555195 [INFO] 	 + Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:36:13.570887696 [INFO] 	 + Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:36:13.573153751 [INFO] 	 + Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:36:13.575526377 [INFO] 	 + Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:36:13.577834339 [INFO] 	 + Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:36:13.580133453 [INFO] 	 + Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:36:13.581286892 [INFO] Search and removing old groups...
+2025-04-18 12:36:13.583449976 [INFO] 	 + Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:36:13.585459147 [INFO] 	 + Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:36:13.587382876 [INFO] 	 + Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:36:13.588804151 [INFO] Cleaning old directories...
+2025-04-18 12:36:13.589870561 [INFO] 	 + The directory '/publico' doesn't exist.
+2025-04-18 12:36:13.591341495 [INFO] 	 + The directory '/adm' doesn't exist.
+2025-04-18 12:36:13.592557778 [INFO] 	 + The directory '/ven' doesn't exist.
+2025-04-18 12:36:13.593751606 [INFO] 	 + The directory '/sec' doesn't exist.
+2025-04-18 12:37:23.644234906 [INFO] ---------------------------------------------
+2025-04-18 12:37:23.647033938 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:37:23.649858187 [INFO] ---------------------------------------------
+2025-04-18 12:37:23.652367947 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:37:23.656394006 [INFO] Collecting users to create.
+2025-04-18 12:37:23.659175626 [INFO] 	 + USERS.: carlos
+2025-04-18 12:37:23.662028545 [INFO] Collecting groups to create.
+2025-04-18 12:37:23.664742814 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:37:23.667459922 [INFO] Collecting work directories to create.
+2025-04-18 12:37:23.669626701 [INFO] 	 + DIR.: /publico
+2025-04-18 12:37:23.671731485 [INFO] Correlating groups and users.
+2025-04-18 12:37:23.673752854 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:37:23.675620230 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:37:23.677406870 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:37:23.679214447 [INFO] Getting permissions to work directories.
+2025-04-18 12:37:23.680950420 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:37:23.682557531 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:37:23.684229120 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:37:23.685759944 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:37:23.687256928 [INFO] Search and removing users...
+2025-04-18 12:37:23.690038553 [INFO] 	 + Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:37:23.692786078 [INFO] 	 + Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:37:23.695335645 [INFO] 	 + Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:37:23.697754883 [INFO] 	 + Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:37:23.700453864 [INFO] 	 + Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:37:23.703058076 [INFO] 	 + Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:37:23.705846085 [INFO] 	 + Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:37:23.708562086 [INFO] 	 + Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:37:23.711101321 [INFO] 	 + Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:37:23.712774797 [INFO] Search and removing old groups...
+2025-04-18 12:37:23.715464901 [INFO] 	 + Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:37:23.718197275 [INFO] 	 + Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:37:23.721017421 [INFO] 	 + Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:37:23.722724407 [INFO] Cleaning old directories...
+2025-04-18 12:37:23.724369621 [INFO] 	 + The directory [/publico] doesn't exist.
+2025-04-18 12:37:23.726007305 [INFO] 	 + The directory [/adm] doesn't exist.
+2025-04-18 12:37:23.727694688 [INFO] 	 + The directory [/ven] doesn't exist.
+2025-04-18 12:37:23.729128263 [INFO] 	 + The directory [/sec] doesn't exist.
+2025-04-18 12:38:00.170588815 [INFO] ---------------------------------------------
+2025-04-18 12:38:00.173742192 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:38:00.176384759 [INFO] ---------------------------------------------
+2025-04-18 12:38:00.179180512 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:38:00.183765803 [INFO] Collecting users to create.
+2025-04-18 12:38:00.186161139 [INFO] 	 + USERS.: carlos
+2025-04-18 12:38:00.188752635 [INFO] Collecting groups to create.
+2025-04-18 12:38:00.191283327 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:38:00.193703091 [INFO] Collecting work directories to create.
+2025-04-18 12:38:00.195995090 [INFO] 	 + DIR.: /publico
+2025-04-18 12:38:00.197738850 [INFO] Correlating groups and users.
+2025-04-18 12:38:00.199907595 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:38:00.201727118 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:38:00.203694496 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:38:00.205520476 [INFO] Getting permissions to work directories.
+2025-04-18 12:38:00.207564559 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:38:00.209461655 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:38:00.211286218 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:38:00.212951442 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:38:00.214421156 [INFO] Search and removing users...
+2025-04-18 12:38:00.217457548 [INFO] 	 + Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:38:00.220119099 [INFO] 	 + Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:38:00.222081586 [INFO] 	 + Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:38:00.224265595 [INFO] 	 + Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:38:00.226526121 [INFO] 	 + Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:38:00.228825129 [INFO] 	 + Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:38:00.231453468 [INFO] 	 + Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:38:00.234289552 [INFO] 	 + Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:38:00.237653023 [INFO] 	 + Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:38:00.239328990 [INFO] Search and removing old groups...
+2025-04-18 12:38:00.242151522 [INFO] 	 + Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:38:00.245163766 [INFO] 	 + Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:38:00.247872672 [INFO] 	 + Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:38:00.249246308 [INFO] Cleaning old directories...
+2025-04-18 12:38:00.250714082 [INFO] 	 + The directory ( /publico ) doesn't exist.
+2025-04-18 12:38:00.251934044 [INFO] 	 + The directory ( /adm ) doesn't exist.
+2025-04-18 12:38:00.253099306 [INFO] 	 + The directory ( /ven ) doesn't exist.
+2025-04-18 12:38:00.254128369 [INFO] 	 + The directory ( /sec ) doesn't exist.
+2025-04-18 12:38:57.552231215 [INFO] ---------------------------------------------
+2025-04-18 12:38:57.554972584 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:38:57.558107268 [INFO] ---------------------------------------------
+2025-04-18 12:38:57.560862314 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:38:57.565048346 [INFO] Collecting users to create.
+2025-04-18 12:38:57.568170544 [INFO] 	 + USERS.: carlos
+2025-04-18 12:38:57.570768047 [INFO] Collecting groups to create.
+2025-04-18 12:38:57.572895508 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:38:57.574773883 [INFO] Collecting work directories to create.
+2025-04-18 12:38:57.576799845 [INFO] 	 + DIR.: /publico
+2025-04-18 12:38:57.578819698 [INFO] Correlating groups and users.
+2025-04-18 12:38:57.580603071 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:38:57.582386268 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:38:57.584376665 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:38:57.586139887 [INFO] Getting permissions to work directories.
+2025-04-18 12:38:57.587948391 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:38:57.589335050 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:38:57.590833886 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:38:57.592624092 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:38:57.594259780 [INFO] Search and removing users...
+2025-04-18 12:38:57.597578223 [INFO] 	 + Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:38:57.600672161 [INFO] 	 + Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:38:57.603888897 [INFO] 	 + Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:38:57.606887557 [INFO] 	 + Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:38:57.610264880 [INFO] 	 + Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:38:57.613726269 [INFO] 	 + Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:38:57.616875785 [INFO] 	 + Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:38:57.620153458 [INFO] 	 + Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:38:57.623545672 [INFO] 	 + Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:38:57.625253690 [INFO] Search and removing old groups...
+2025-04-18 12:38:57.629178265 [INFO] 	 + Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:38:57.632704538 [INFO] 	 + Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:38:57.635627421 [INFO] 	 + Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:38:57.636974806 [INFO] Cleaning old directories...
+2025-04-18 12:38:57.638677524 [INFO] 	 + /publico doesn't exist.
+2025-04-18 12:38:57.640074058 [INFO] 	 + /adm doesn't exist.
+2025-04-18 12:38:57.641180462 [INFO] 	 + /ven doesn't exist.
+2025-04-18 12:38:57.642512033 [INFO] 	 + /sec doesn't exist.
+2025-04-18 12:39:30.744786993 [INFO] ---------------------------------------------
+2025-04-18 12:39:30.747181529 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:39:30.749788984 [INFO] ---------------------------------------------
+2025-04-18 12:39:30.752751768 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:39:30.756782899 [INFO] Collecting users to create.
+2025-04-18 12:39:30.759275992 [INFO] 	 + USERS.: carlos
+2025-04-18 12:39:30.762086149 [INFO] Collecting groups to create.
+2025-04-18 12:39:30.765074966 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:39:30.767687379 [INFO] Collecting work directories to create.
+2025-04-18 12:39:30.770166513 [INFO] 	 + DIR.: /publico
+2025-04-18 12:39:30.772751738 [INFO] Correlating groups and users.
+2025-04-18 12:39:30.775038315 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:39:30.777508198 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:39:30.779708812 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:39:30.781857736 [INFO] Getting permissions to work directories.
+2025-04-18 12:39:30.783960118 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:39:30.785772677 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:39:30.787928945 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:39:30.789660598 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:39:30.791700414 [INFO] Search and removing users...
+2025-04-18 12:39:30.794831213 [INFO] 	 + Removing user: 'carlos'. User doesn't exist.
+2025-04-18 12:39:30.797461493 [INFO] 	 + Removing user: 'maria'. User doesn't exist.
+2025-04-18 12:39:30.800383754 [INFO] 	 + Removing user: 'joao_'. User doesn't exist.
+2025-04-18 12:39:30.803503105 [INFO] 	 + Removing user: 'debora'. User doesn't exist.
+2025-04-18 12:39:30.806949200 [INFO] 	 + Removing user: 'sebastiana'. User doesn't exist.
+2025-04-18 12:39:30.810647727 [INFO] 	 + Removing user: 'roberto'. User doesn't exist.
+2025-04-18 12:39:30.814024850 [INFO] 	 + Removing user: 'josefina'. User doesn't exist.
+2025-04-18 12:39:30.818096145 [INFO] 	 + Removing user: 'amanda'. User doesn't exist.
+2025-04-18 12:39:30.821864962 [INFO] 	 + Removing user: 'rogerio'. User doesn't exist.
+2025-04-18 12:39:30.824453723 [INFO] Search and removing old groups...
+2025-04-18 12:39:30.828655860 [INFO] 	 + Removing group: 'GRP_ADM'. Group doesn't exist.
+2025-04-18 12:39:30.831746301 [INFO] 	 + Removing group: 'GRP_VEN'. Group doesn't exist.
+2025-04-18 12:39:30.834724607 [INFO] 	 + Removing group: 'GRP_SEC'. Group doesn't exist.
+2025-04-18 12:39:30.836895914 [INFO] Cleaning old directories...
+2025-04-18 12:39:30.839090894 [INFO] 	 + /publico : doesn't exist.
+2025-04-18 12:39:30.841130307 [INFO] 	 + /adm : doesn't exist.
+2025-04-18 12:39:30.843142851 [INFO] 	 + /ven : doesn't exist.
+2025-04-18 12:39:30.845315332 [INFO] 	 + /sec : doesn't exist.
+2025-04-18 12:45:05.369896568 [INFO] ---------------------------------------------
+2025-04-18 12:45:05.372913887 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:45:05.375608104 [INFO] ---------------------------------------------
+2025-04-18 12:45:05.378287770 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:45:05.382243472 [INFO] Collecting users to create.
+2025-04-18 12:45:05.384698388 [INFO] 	 + USERS.: carlos
+2025-04-18 12:45:05.387006137 [INFO] Collecting groups to create.
+2025-04-18 12:45:05.389179861 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:45:05.390931402 [INFO] Collecting work directories to create.
+2025-04-18 12:45:05.392733436 [INFO] 	 + DIR.: /publico
+2025-04-18 12:45:05.394391457 [INFO] Correlating groups and users.
+2025-04-18 12:45:05.396171538 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:45:05.397626869 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:45:05.399330850 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:45:05.400955277 [INFO] Getting permissions to work directories.
+2025-04-18 12:45:05.402459890 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:45:05.404158645 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:45:05.405418800 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:45:05.406893517 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:45:05.408249017 [INFO] Set primaries groups for users.
+2025-04-18 12:48:41.932756712 [INFO] ---------------------------------------------
+2025-04-18 12:48:41.935343708 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:48:41.938059660 [INFO] ---------------------------------------------
+2025-04-18 12:48:41.940531219 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:48:41.944599221 [INFO] Collecting users to create.
+2025-04-18 12:48:41.947132297 [INFO] 	 + USERS.: carlos
+2025-04-18 12:48:41.950253338 [INFO] Collecting groups to create.
+2025-04-18 12:48:41.953073142 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:48:41.955105964 [INFO] Collecting work directories to create.
+2025-04-18 12:48:41.957631504 [INFO] 	 + DIR.: /publico
+2025-04-18 12:48:41.959931380 [INFO] Correlating groups and users.
+2025-04-18 12:48:41.961970911 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:48:41.964237861 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:48:41.966136540 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:48:41.968311809 [INFO] Getting permissions to work directories.
+2025-04-18 12:48:41.970065897 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:48:41.972134685 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:48:41.973865928 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:48:41.975933863 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:48:41.977607831 [INFO] Set primaries groups for users.
+2025-04-18 12:48:41.979336333 [ OK ] 	 + User  set in primary group .
+2025-04-18 12:48:41.981292075 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:48:41.983275602 [ OK ] 	 + User  set in primary group .
+2025-04-18 12:48:41.985708305 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:48:41.987843795 [ OK ] 	 + User  set in primary group .
+2025-04-18 12:48:41.990135765 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:49:59.039904205 [INFO] ---------------------------------------------
+2025-04-18 12:49:59.042353947 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:49:59.044348684 [INFO] ---------------------------------------------
+2025-04-18 12:49:59.046208554 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:49:59.049133748 [INFO] Collecting users to create.
+2025-04-18 12:49:59.051028594 [INFO] 	 + USERS.: carlos
+2025-04-18 12:49:59.053149691 [INFO] Collecting groups to create.
+2025-04-18 12:49:59.054836726 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:49:59.056812830 [INFO] Collecting work directories to create.
+2025-04-18 12:49:59.058497857 [INFO] 	 + DIR.: /publico
+2025-04-18 12:49:59.060348630 [INFO] Correlating groups and users.
+2025-04-18 12:49:59.061996756 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:49:59.063462287 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:49:59.064855295 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:49:59.066066843 [INFO] Getting permissions to work directories.
+2025-04-18 12:49:59.067285997 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:49:59.068368131 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:49:59.069552671 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:49:59.070550646 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:49:59.071563642 [INFO] Set primaries groups for users.
+2025-04-18 12:49:59.072608950 [ OK ] 	 + User  set in primary group GRP_ADM;carlos;maria;joao_[0].
+2025-04-18 12:49:59.073625249 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:49:59.074708276 [ OK ] 	 + User  set in primary group GRP_VEN;debora;sebastiana;roberto[0].
+2025-04-18 12:49:59.075600345 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:49:59.076655686 [ OK ] 	 + User  set in primary group GRP_SEC;josefina;amanda;rogerio[0].
+2025-04-18 12:49:59.077781772 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:10.571215545 [INFO] ---------------------------------------------
+2025-04-18 12:50:10.573711172 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:50:10.576237302 [INFO] ---------------------------------------------
+2025-04-18 12:50:10.578553269 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:50:10.581924396 [INFO] Collecting users to create.
+2025-04-18 12:50:10.584038883 [INFO] 	 + USERS.: carlos
+2025-04-18 12:50:10.585774197 [INFO] Collecting groups to create.
+2025-04-18 12:50:10.587593020 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:50:10.589094138 [INFO] Collecting work directories to create.
+2025-04-18 12:50:10.590743346 [INFO] 	 + DIR.: /publico
+2025-04-18 12:50:10.592248015 [INFO] Correlating groups and users.
+2025-04-18 12:50:10.593287683 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:50:10.594450864 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:50:10.595772032 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:50:10.596843001 [INFO] Getting permissions to work directories.
+2025-04-18 12:50:10.597870037 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:50:10.599072683 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:50:10.600114006 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:50:10.601129521 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:50:10.602109718 [INFO] Set primaries groups for users.
+2025-04-18 12:50:10.603229081 [ OK ] 	 + User  set in primary group GRP_ADM;carlos;maria;joao_[0].
+2025-04-18 12:50:10.604357952 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:10.605316461 [ OK ] 	 + User  set in primary group GRP_VEN;debora;sebastiana;roberto[0].
+2025-04-18 12:50:10.606296529 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:10.607399659 [ OK ] 	 + User  set in primary group GRP_SEC;josefina;amanda;rogerio[0].
+2025-04-18 12:50:10.608410712 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:20.711669115 [INFO] ---------------------------------------------
+2025-04-18 12:50:20.714549823 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:50:20.717378186 [INFO] ---------------------------------------------
+2025-04-18 12:50:20.720087662 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:50:20.724102391 [INFO] Collecting users to create.
+2025-04-18 12:50:20.726602100 [INFO] 	 + USERS.: carlos
+2025-04-18 12:50:20.729511852 [INFO] Collecting groups to create.
+2025-04-18 12:50:20.731921997 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:50:20.733904320 [INFO] Collecting work directories to create.
+2025-04-18 12:50:20.735912379 [INFO] 	 + DIR.: /publico
+2025-04-18 12:50:20.737200490 [INFO] Correlating groups and users.
+2025-04-18 12:50:20.738639676 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:50:20.739815111 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:50:20.740907733 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:50:20.741988294 [INFO] Getting permissions to work directories.
+2025-04-18 12:50:20.743623271 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:50:20.744856785 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:50:20.746132457 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:50:20.747420293 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:50:20.748576038 [INFO] Set primaries groups for users.
+2025-04-18 12:50:20.749676249 [ OK ] 	 + User  set in primary group GRP_ADM;carlos;maria;joao_[0].
+2025-04-18 12:50:20.750797320 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:20.751912709 [ OK ] 	 + User  set in primary group GRP_VEN;debora;sebastiana;roberto[0].
+2025-04-18 12:50:20.752912090 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:20.754065865 [ OK ] 	 + User  set in primary group GRP_SEC;josefina;amanda;rogerio[0].
+2025-04-18 12:50:20.754981999 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:44.503081354 [INFO] ---------------------------------------------
+2025-04-18 12:50:44.505382725 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:50:44.507908113 [INFO] ---------------------------------------------
+2025-04-18 12:50:44.510321373 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:50:44.515440700 [INFO] Collecting users to create.
+2025-04-18 12:50:44.518862743 [INFO] 	 + USERS.: carlos
+2025-04-18 12:50:44.521759350 [INFO] Collecting groups to create.
+2025-04-18 12:50:44.524364734 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:50:44.526666215 [INFO] Collecting work directories to create.
+2025-04-18 12:50:44.529044587 [INFO] 	 + DIR.: /publico
+2025-04-18 12:50:44.531288050 [INFO] Correlating groups and users.
+2025-04-18 12:50:44.533651464 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:50:44.536500602 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:50:44.538989089 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:50:44.541406705 [INFO] Getting permissions to work directories.
+2025-04-18 12:50:44.543626582 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:50:44.545798039 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:50:44.548245136 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:50:44.550561075 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:50:44.552748142 [INFO] Set primaries groups for users.
+2025-04-18 12:50:44.555074851 [ OK ] 	 + User  set in primary group GRP_ADM;carlos;maria;joao_.
+2025-04-18 12:50:44.557496403 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:44.560205093 [ OK ] 	 + User  set in primary group GRP_VEN;debora;sebastiana;roberto.
+2025-04-18 12:50:44.562716179 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:50:44.565210865 [ OK ] 	 + User  set in primary group GRP_SEC;josefina;amanda;rogerio.
+2025-04-18 12:50:44.567231707 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:51:31.323084449 [INFO] ---------------------------------------------
+2025-04-18 12:51:31.325732827 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:51:31.328545717 [INFO] ---------------------------------------------
+2025-04-18 12:51:31.331305548 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:51:31.335488656 [INFO] Collecting users to create.
+2025-04-18 12:51:31.337771721 [INFO] 	 + USERS.: carlos
+2025-04-18 12:51:31.340195532 [INFO] Collecting groups to create.
+2025-04-18 12:51:31.342612216 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:51:31.345462022 [INFO] Collecting work directories to create.
+2025-04-18 12:51:31.347986458 [INFO] 	 + DIR.: /publico
+2025-04-18 12:51:31.350410724 [INFO] Correlating groups and users.
+2025-04-18 12:51:31.353038969 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:51:31.355682853 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:51:31.358085402 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:51:31.360763491 [INFO] Getting permissions to work directories.
+2025-04-18 12:51:31.363094050 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:51:31.365593508 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:51:31.367780976 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:51:31.370031317 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:51:31.372223738 [INFO] Set primaries groups for users.
+2025-04-18 12:51:31.374165005 [ OK ] 	 + User  set in primary group (GRP_ADM;carlos;maria;joao_).
+2025-04-18 12:51:31.376389608 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:51:31.378165496 [ OK ] 	 + User  set in primary group (GRP_VEN;debora;sebastiana;roberto).
+2025-04-18 12:51:31.379972479 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:51:31.381368837 [ OK ] 	 + User  set in primary group (GRP_SEC;josefina;amanda;rogerio).
+2025-04-18 12:51:31.382955091 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:53:27.246646739 [INFO] ---------------------------------------------
+2025-04-18 12:53:27.249124100 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:53:27.251623835 [INFO] ---------------------------------------------
+2025-04-18 12:53:27.253977566 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:53:27.257832276 [INFO] Collecting users to create.
+2025-04-18 12:53:27.260245371 [INFO] 	 + USERS.: carlos
+2025-04-18 12:53:27.262726057 [INFO] Collecting groups to create.
+2025-04-18 12:53:27.265175295 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:53:27.267584746 [INFO] Collecting work directories to create.
+2025-04-18 12:53:27.269961997 [INFO] 	 + DIR.: /publico
+2025-04-18 12:53:27.272247725 [INFO] Correlating groups and users.
+2025-04-18 12:53:27.274522193 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:53:27.276429333 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:53:27.278273748 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:53:27.280394512 [INFO] Getting permissions to work directories.
+2025-04-18 12:53:27.282198323 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:53:27.283912079 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:53:27.285182117 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:53:27.286787361 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:53:27.288484089 [INFO] Set primaries groups for users.
+2025-04-18 12:53:27.290028214 [ OK ] 	 + User  set in primary group GRP_ADM;carlos;maria;joao_.
+2025-04-18 12:53:27.291846681 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:53:27.293633786 [ OK ] 	 + User  set in primary group GRP_VEN;debora;sebastiana;roberto.
+2025-04-18 12:53:27.295524956 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:53:27.297345331 [ OK ] 	 + User  set in primary group GRP_SEC;josefina;amanda;rogerio.
+2025-04-18 12:53:27.299211820 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:54:08.220146629 [INFO] ---------------------------------------------
+2025-04-18 12:54:08.223024912 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:54:08.225895848 [INFO] ---------------------------------------------
+2025-04-18 12:54:08.228539942 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:54:08.231966906 [INFO] Collecting users to create.
+2025-04-18 12:54:08.234602773 [INFO] 	 + USERS.: carlos
+2025-04-18 12:54:08.237366403 [INFO] Collecting groups to create.
+2025-04-18 12:54:08.239842745 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:54:08.242033535 [INFO] Collecting work directories to create.
+2025-04-18 12:54:08.244151192 [INFO] 	 + DIR.: /publico
+2025-04-18 12:54:08.245823335 [INFO] Correlating groups and users.
+2025-04-18 12:54:08.247721777 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:54:08.249337515 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:54:08.250726559 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:54:08.252245532 [INFO] Getting permissions to work directories.
+2025-04-18 12:54:08.253410934 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:54:08.254729110 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:54:08.255939314 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:54:08.256930365 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:54:08.257914588 [INFO] Set primaries groups for users.
+2025-04-18 12:54:08.259173174 [ OK ] 	 + User  set in primary group GRP_ADM;carlos;maria;joao_.
+2025-04-18 12:54:08.260163213 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:54:08.261121205 [ OK ] 	 + User  set in primary group GRP_VEN;debora;sebastiana;roberto.
+2025-04-18 12:54:08.262215076 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:54:08.263266348 [ OK ] 	 + User  set in primary group GRP_SEC;josefina;amanda;rogerio.
+2025-04-18 12:54:08.264290111 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:54:35.763176066 [INFO] ---------------------------------------------
+2025-04-18 12:54:35.766034864 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:54:35.768634954 [INFO] ---------------------------------------------
+2025-04-18 12:54:35.771321691 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:54:35.775233619 [INFO] Collecting users to create.
+2025-04-18 12:54:35.778051641 [INFO] 	 + USERS.: carlos
+2025-04-18 12:54:35.780963706 [INFO] Collecting groups to create.
+2025-04-18 12:54:35.783750694 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:54:35.787202294 [INFO] Collecting work directories to create.
+2025-04-18 12:54:35.790102336 [INFO] 	 + DIR.: /publico
+2025-04-18 12:54:35.793185060 [INFO] Correlating groups and users.
+2025-04-18 12:54:35.795810657 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:54:35.798419077 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:54:35.801052290 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:54:35.804116219 [INFO] Getting permissions to work directories.
+2025-04-18 12:54:35.807319518 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:54:35.810352658 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:54:35.813313446 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:54:35.816044798 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:54:35.818890313 [INFO] Set primaries groups for users.
+2025-04-18 12:54:35.822221301 [ OK ] 	 + User  set in primary group GRP_ADM.
+2025-04-18 12:54:35.825530963 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:54:35.828816686 [ OK ] 	 + User  set in primary group GRP_VEN.
+2025-04-18 12:54:35.831592068 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:54:35.834341739 [ OK ] 	 + User  set in primary group GRP_SEC.
+2025-04-18 12:54:35.837361829 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:55:34.551230733 [INFO] ---------------------------------------------
+2025-04-18 12:55:34.554087243 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:55:34.556946434 [INFO] ---------------------------------------------
+2025-04-18 12:55:34.559472449 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:55:34.563536617 [INFO] Collecting users to create.
+2025-04-18 12:55:34.566174931 [INFO] 	 + USERS.: carlos
+2025-04-18 12:55:34.569105922 [INFO] Collecting groups to create.
+2025-04-18 12:55:34.571691826 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:55:34.574027016 [INFO] Collecting work directories to create.
+2025-04-18 12:55:34.576184947 [INFO] 	 + DIR.: /publico
+2025-04-18 12:55:34.578342033 [INFO] Correlating groups and users.
+2025-04-18 12:55:34.580870717 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:55:34.583316344 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:55:34.585946408 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:55:34.588598559 [INFO] Getting permissions to work directories.
+2025-04-18 12:55:34.591346769 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:55:34.593961040 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:55:34.596869566 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:55:34.599955253 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:55:34.603141619 [INFO] Set primaries groups for users.
+2025-04-18 12:55:34.605820983 [ OK ] 	 + Group GRP_ADM: RP_ADM.
+2025-04-18 12:55:34.608326433 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:55:34.610778188 [ OK ] 	 + Group GRP_VEN: RP_VEN.
+2025-04-18 12:55:34.613483295 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:55:34.616742831 [ OK ] 	 + Group GRP_SEC: RP_SEC.
+2025-04-18 12:55:34.619627307 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:56:41.214778217 [INFO] ---------------------------------------------
+2025-04-18 12:56:41.217844952 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:56:41.220688685 [INFO] ---------------------------------------------
+2025-04-18 12:56:41.223375760 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:56:41.227440604 [INFO] Collecting users to create.
+2025-04-18 12:56:41.230288002 [INFO] 	 + USERS.: carlos
+2025-04-18 12:56:41.233291495 [INFO] Collecting groups to create.
+2025-04-18 12:56:41.236217819 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:56:41.238801012 [INFO] Collecting work directories to create.
+2025-04-18 12:56:41.241016963 [INFO] 	 + DIR.: /publico
+2025-04-18 12:56:41.243129358 [INFO] Correlating groups and users.
+2025-04-18 12:56:41.245506021 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:56:41.247778951 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:56:41.250190228 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:56:41.252882363 [INFO] Getting permissions to work directories.
+2025-04-18 12:56:41.255314139 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:56:41.258037017 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:56:41.260545202 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:56:41.263125424 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:56:41.265659656 [INFO] Set primaries groups for users.
+2025-04-18 12:56:41.268126298 [ OK ] 	 + GRP_ADM: (RP_ADM).
+2025-04-18 12:56:41.270397834 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:56:41.272984196 [ OK ] 	 + GRP_VEN: (RP_VEN).
+2025-04-18 12:56:41.275409648 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:56:41.278108961 [ OK ] 	 + GRP_SEC: (RP_SEC).
+2025-04-18 12:56:41.280889368 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:57:35.963370024 [INFO] ---------------------------------------------
+2025-04-18 12:57:35.965595334 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:57:35.967881005 [INFO] ---------------------------------------------
+2025-04-18 12:57:35.970005080 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:57:35.973179625 [INFO] Collecting users to create.
+2025-04-18 12:57:35.975097710 [INFO] 	 + USERS.: carlos
+2025-04-18 12:57:35.977305688 [INFO] Collecting groups to create.
+2025-04-18 12:57:35.979452297 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:57:35.981680742 [INFO] Collecting work directories to create.
+2025-04-18 12:57:35.984004216 [INFO] 	 + DIR.: /publico
+2025-04-18 12:57:35.985959630 [INFO] Correlating groups and users.
+2025-04-18 12:57:35.988037129 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:57:35.989967046 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:57:35.992040352 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:57:35.994143014 [INFO] Getting permissions to work directories.
+2025-04-18 12:57:35.996092672 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:57:35.997765670 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:57:35.999290446 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:57:36.000798176 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:57:36.002039056 [INFO] Set primaries groups for users.
+2025-04-18 12:57:36.003634749 [ OK ] 	 + GRP_ADM: carlos
+2025-04-18 12:57:36.004904078 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:57:36.005959508 [ OK ] 	 + GRP_VEN: debora
+2025-04-18 12:57:36.007303517 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:57:36.008676570 [ OK ] 	 + GRP_SEC: josefina
+2025-04-18 12:57:36.009734290 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:59:03.385488596 [INFO] ---------------------------------------------
+2025-04-18 12:59:03.388489986 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:59:03.391342020 [INFO] ---------------------------------------------
+2025-04-18 12:59:03.394041176 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:59:03.398244131 [INFO] Collecting users to create.
+2025-04-18 12:59:03.400994772 [INFO] 	 + USERS.: carlos
+2025-04-18 12:59:03.404026495 [INFO] Collecting groups to create.
+2025-04-18 12:59:03.406374741 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:59:03.408617811 [INFO] Collecting work directories to create.
+2025-04-18 12:59:03.410740654 [INFO] 	 + DIR.: /publico
+2025-04-18 12:59:03.413010919 [INFO] Correlating groups and users.
+2025-04-18 12:59:03.414900601 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:59:03.417103717 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:59:03.419170016 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:59:03.421074840 [INFO] Getting permissions to work directories.
+2025-04-18 12:59:03.422836492 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:59:03.424821693 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:59:03.426248690 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:59:03.428173705 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:59:03.429686060 [INFO] Set primaries groups for users.
+2025-04-18 12:59:03.431297004 [ OK ] 	 + GRP_ADM;carlos;maria;joao_: carlos
+2025-04-18 12:59:03.432982830 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:59:03.434431474 [ OK ] 	 + GRP_VEN;debora;sebastiana;roberto: debora
+2025-04-18 12:59:03.435912531 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:59:03.437162517 [ OK ] 	 + GRP_SEC;josefina;amanda;rogerio: josefina
+2025-04-18 12:59:03.438419112 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:59:37.673433738 [INFO] ---------------------------------------------
+2025-04-18 12:59:37.676415891 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 12:59:37.678987384 [INFO] ---------------------------------------------
+2025-04-18 12:59:37.681932881 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 12:59:37.686180353 [INFO] Collecting users to create.
+2025-04-18 12:59:37.689119019 [INFO] 	 + USERS.: carlos
+2025-04-18 12:59:37.691933247 [INFO] Collecting groups to create.
+2025-04-18 12:59:37.694332150 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 12:59:37.697051326 [INFO] Collecting work directories to create.
+2025-04-18 12:59:37.699422439 [INFO] 	 + DIR.: /publico
+2025-04-18 12:59:37.701912993 [INFO] Correlating groups and users.
+2025-04-18 12:59:37.704131795 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 12:59:37.706109944 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 12:59:37.708430485 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 12:59:37.710253730 [INFO] Getting permissions to work directories.
+2025-04-18 12:59:37.712429785 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 12:59:37.714183364 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 12:59:37.716101684 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 12:59:37.717607011 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 12:59:37.719252874 [INFO] Set primaries groups for users.
+2025-04-18 12:59:37.720803068 [ OK ] 	 + GRP_ADM;carlos;maria;joao_: RP_ADM;carlos;maria;joao_.
+2025-04-18 12:59:37.722014996 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:59:37.723789050 [ OK ] 	 + GRP_VEN;debora;sebastiana;roberto: RP_VEN;debora;sebastiana;roberto.
+2025-04-18 12:59:37.724938410 [FAIL] 	 + User  doesn't found.
+2025-04-18 12:59:37.726260579 [ OK ] 	 + GRP_SEC;josefina;amanda;rogerio: RP_SEC;josefina;amanda;rogerio.
+2025-04-18 12:59:37.727497101 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:03:39.762932099 [INFO] ---------------------------------------------
+2025-04-18 13:03:39.765687503 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 13:03:39.768406310 [INFO] ---------------------------------------------
+2025-04-18 13:03:39.770986417 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 13:03:39.774933934 [INFO] Collecting users to create.
+2025-04-18 13:03:39.777555824 [INFO] 	 + USERS.: carlos
+2025-04-18 13:03:39.780366753 [INFO] Collecting groups to create.
+2025-04-18 13:03:39.783362457 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 13:03:39.786478907 [INFO] Collecting work directories to create.
+2025-04-18 13:03:39.789456924 [INFO] 	 + DIR.: /publico
+2025-04-18 13:03:39.792175247 [INFO] Correlating groups and users.
+2025-04-18 13:03:39.794453408 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 13:03:39.796843258 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 13:03:39.798705738 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 13:03:39.800891971 [INFO] Getting permissions to work directories.
+2025-04-18 13:03:39.802992234 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 13:03:39.805217702 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 13:03:39.807236689 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 13:03:39.809402166 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 13:03:39.811445076 [INFO] Set primaries groups for users.
+2025-04-18 13:03:39.813649765 [ OK ] 	 + GRP_ADM;carlos;maria;joao_: RP_ADM;carlos;maria;joao_.
+2025-04-18 13:03:39.815768314 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:03:39.817741361 [ OK ] 	 + GRP_VEN;debora;sebastiana;roberto: RP_VEN;debora;sebastiana;roberto.
+2025-04-18 13:03:39.819813736 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:03:39.821851267 [ OK ] 	 + GRP_SEC;josefina;amanda;rogerio: RP_SEC;josefina;amanda;rogerio.
+2025-04-18 13:03:39.823968909 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:03:55.855465955 [INFO] ---------------------------------------------
+2025-04-18 13:03:55.857898100 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 13:03:55.860171701 [INFO] ---------------------------------------------
+2025-04-18 13:03:55.862409807 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 13:03:55.866239349 [INFO] Collecting users to create.
+2025-04-18 13:03:55.868958856 [INFO] 	 + USERS.: carlos
+2025-04-18 13:03:55.871567310 [INFO] Collecting groups to create.
+2025-04-18 13:03:55.874421093 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 13:03:55.877242383 [INFO] Collecting work directories to create.
+2025-04-18 13:03:55.879777474 [INFO] 	 + DIR.: /publico
+2025-04-18 13:03:55.882188190 [INFO] Correlating groups and users.
+2025-04-18 13:03:55.884594775 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 13:03:55.886985246 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 13:03:55.889273687 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 13:03:55.891318497 [INFO] Getting permissions to work directories.
+2025-04-18 13:03:55.893575029 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 13:03:55.895673908 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 13:03:55.898102943 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 13:03:55.900482304 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 13:03:55.902769842 [INFO] Set primaries groups for users.
+2025-04-18 13:03:55.905678024 [ OK ] 	 + GRP_ADM: RP_ADM;carlos;maria;joao_.
+2025-04-18 13:03:55.908285848 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:03:55.910893698 [ OK ] 	 + GRP_VEN: RP_VEN;debora;sebastiana;roberto.
+2025-04-18 13:03:55.912853514 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:03:55.914892966 [ OK ] 	 + GRP_SEC: RP_SEC;josefina;amanda;rogerio.
+2025-04-18 13:03:55.916669598 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:05:55.523125086 [INFO] ---------------------------------------------
+2025-04-18 13:05:55.525750089 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 13:05:55.528420320 [INFO] ---------------------------------------------
+2025-04-18 13:05:55.530769940 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 13:05:55.534143442 [INFO] Collecting users to create.
+2025-04-18 13:05:55.536250070 [INFO] 	 + USERS.: carlos
+2025-04-18 13:05:55.538120599 [INFO] Collecting groups to create.
+2025-04-18 13:05:55.540226784 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 13:05:55.541883022 [INFO] Collecting work directories to create.
+2025-04-18 13:05:55.543769582 [INFO] 	 + DIR.: /publico
+2025-04-18 13:05:55.545302725 [INFO] Correlating groups and users.
+2025-04-18 13:05:55.547139971 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 13:05:55.548617116 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 13:05:55.549971858 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 13:05:55.551581218 [INFO] Getting permissions to work directories.
+2025-04-18 13:05:55.552858244 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 13:05:55.553955376 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 13:05:55.555497956 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 13:05:55.556588533 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 13:05:55.557690086 [INFO] Set primaries groups for users.
+2025-04-18 13:05:55.559313264 [ OK ] 	 + GRP_ADM: carlos
+2025-04-18 13:05:55.560583787 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:05:55.561732506 [ OK ] 	 + GRP_VEN: debora
+2025-04-18 13:05:55.563089641 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:05:55.564268353 [ OK ] 	 + GRP_SEC: josefina
+2025-04-18 13:05:55.565314657 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:06:17.815352150 [INFO] ---------------------------------------------
+2025-04-18 13:06:17.818202813 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 13:06:17.821340378 [INFO] ---------------------------------------------
+2025-04-18 13:06:17.824101816 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 13:06:17.828129260 [INFO] Collecting users to create.
+2025-04-18 13:06:17.830663326 [INFO] 	 + USERS.: carlos
+2025-04-18 13:06:17.833650318 [INFO] Collecting groups to create.
+2025-04-18 13:06:17.836627662 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 13:06:17.839602919 [INFO] Collecting work directories to create.
+2025-04-18 13:06:17.842318100 [INFO] 	 + DIR.: /publico
+2025-04-18 13:06:17.844976996 [INFO] Correlating groups and users.
+2025-04-18 13:06:17.847325337 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 13:06:17.849811756 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 13:06:17.852059041 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 13:06:17.854544852 [INFO] Getting permissions to work directories.
+2025-04-18 13:06:17.856857918 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 13:06:17.858721762 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 13:06:17.860680963 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 13:06:17.862539811 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 13:06:17.864729967 [INFO] Set primaries groups for users.
+2025-04-18 13:06:17.867079433 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:06:17.869488954 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:06:17.871921701 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:12:27.241873181 [INFO] ---------------------------------------------
+2025-04-18 13:12:27.244891076 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 13:12:27.247592152 [INFO] ---------------------------------------------
+2025-04-18 13:12:27.250441405 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 13:12:27.254429468 [INFO] Collecting users to create.
+2025-04-18 13:12:27.257318380 [INFO] 	 + USERS.: carlos
+2025-04-18 13:12:27.259891249 [INFO] Collecting groups to create.
+2025-04-18 13:12:27.262335822 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 13:12:27.264516823 [INFO] Collecting work directories to create.
+2025-04-18 13:12:27.266607592 [INFO] 	 + DIR.: /publico
+2025-04-18 13:12:27.268892634 [INFO] Correlating groups and users.
+2025-04-18 13:12:27.270921656 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 13:12:27.272961082 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 13:12:27.274615335 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 13:12:27.276545091 [INFO] Getting permissions to work directories.
+2025-04-18 13:12:27.278623100 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 13:12:27.280537060 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 13:12:27.282398312 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 13:12:27.284390512 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 13:12:27.286297856 [INFO] Set primaries groups for users.
+2025-04-18 13:12:27.288484299 [ OK ] 	 + GRP_ADM: carlos,maria,joao_
+2025-04-18 13:12:27.290238173 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:12:27.292378975 [ OK ] 	 + GRP_VEN: debora,sebastiana,roberto
+2025-04-18 13:12:27.294210966 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:12:27.296089261 [ OK ] 	 + GRP_SEC: josefina,amanda,rogerio
+2025-04-18 13:12:27.297656736 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:13:04.196506185 [INFO] ---------------------------------------------
+2025-04-18 13:13:04.199186247 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 13:13:04.201603517 [INFO] ---------------------------------------------
+2025-04-18 13:13:04.203967214 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 13:13:04.207724219 [INFO] Collecting users to create.
+2025-04-18 13:13:04.210385281 [INFO] 	 + USERS.: carlos
+2025-04-18 13:13:04.213048073 [INFO] Collecting groups to create.
+2025-04-18 13:13:04.215219000 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 13:13:04.217405300 [INFO] Collecting work directories to create.
+2025-04-18 13:13:04.219484867 [INFO] 	 + DIR.: /publico
+2025-04-18 13:13:04.221507572 [INFO] Correlating groups and users.
+2025-04-18 13:13:04.223423679 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 13:13:04.225469497 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 13:13:04.227477870 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 13:13:04.229493836 [INFO] Getting permissions to work directories.
+2025-04-18 13:13:04.231542779 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 13:13:04.233504943 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 13:13:04.235252121 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 13:13:04.237066050 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 13:13:04.238879476 [INFO] Set primaries groups for users.
+2025-04-18 13:13:04.240645474 [ OK ] 	 + GRP_ADM: carlos,maria,joao_
+2025-04-18 13:13:04.242249702 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:13:04.244235810 [ OK ] 	 + GRP_VEN: debora,sebastiana,roberto
+2025-04-18 13:13:04.245870801 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:13:04.247771405 [ OK ] 	 + GRP_SEC: josefina,amanda,rogerio
+2025-04-18 13:13:04.249443325 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:13:18.365001183 [INFO] ---------------------------------------------
+2025-04-18 13:13:18.367701566 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 13:13:18.370326260 [INFO] ---------------------------------------------
+2025-04-18 13:13:18.372929569 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 13:13:18.377117709 [INFO] Collecting users to create.
+2025-04-18 13:13:18.379717471 [INFO] 	 + USERS.: carlos
+2025-04-18 13:13:18.382347013 [INFO] Collecting groups to create.
+2025-04-18 13:13:18.384930282 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 13:13:18.387161142 [INFO] Collecting work directories to create.
+2025-04-18 13:13:18.389279340 [INFO] 	 + DIR.: /publico
+2025-04-18 13:13:18.391414683 [INFO] Correlating groups and users.
+2025-04-18 13:13:18.393433156 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 13:13:18.395400268 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 13:13:18.397193626 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 13:13:18.399044409 [INFO] Getting permissions to work directories.
+2025-04-18 13:13:18.400974964 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 13:13:18.402649472 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 13:13:18.404593154 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 13:13:18.406246199 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 13:13:18.407996158 [INFO] Set primaries groups for users.
+2025-04-18 13:13:18.409464800 [ OK ] 	 + GRP_ADM: carlos,maria,joao_
+2025-04-18 13:13:18.411101972 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:13:18.413070362 [ OK ] 	 + GRP_VEN: debora,sebastiana,roberto
+2025-04-18 13:13:18.414520488 [FAIL] 	 + User  doesn't found.
+2025-04-18 13:13:18.416292898 [ OK ] 	 + GRP_SEC: josefina,amanda,rogerio
+2025-04-18 13:13:18.417720881 [FAIL] 	 + User  doesn't found.
+2025-04-18 16:04:28.696553496 [INFO] ---------------------------------------------
+2025-04-18 16:04:28.700001249 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:04:28.702848001 [INFO] ---------------------------------------------
+2025-04-18 16:04:28.705302569 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:04:28.709175814 [INFO] Collecting users to create.
+2025-04-18 16:04:28.711694261 [INFO] 	 + USERS.: carlos
+2025-04-18 16:04:28.714193240 [INFO] Collecting groups to create.
+2025-04-18 16:04:28.716847211 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:04:28.718759498 [INFO] Collecting work directories to create.
+2025-04-18 16:04:28.720953116 [INFO] 	 + DIR.: /publico
+2025-04-18 16:04:28.722631033 [INFO] Correlating groups and users.
+2025-04-18 16:04:28.724452226 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:04:28.726011343 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:04:28.727763654 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:04:28.729301102 [INFO] Getting permissions to work directories.
+2025-04-18 16:04:28.730655021 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:04:28.732191951 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:04:28.733477959 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:04:28.734679371 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:04:28.736079557 [INFO] Set primaries groups for users.
+2025-04-18 16:04:28.737304529 [ OK ] 	 + GRP_ADM: carlos,maria,joao_
+2025-04-18 16:04:28.738411635 [FAIL] 	 + User  doesn't found.
+2025-04-18 16:04:28.739831174 [ OK ] 	 + GRP_VEN: debora,sebastiana,roberto
+2025-04-18 16:04:28.740910471 [FAIL] 	 + User  doesn't found.
+2025-04-18 16:04:28.742075386 [ OK ] 	 + GRP_SEC: josefina,amanda,rogerio
+2025-04-18 16:04:28.743370977 [FAIL] 	 + User  doesn't found.
+2025-04-18 16:11:47.051240552 [INFO] ---------------------------------------------
+2025-04-18 16:11:47.054364909 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:11:47.057268958 [INFO] ---------------------------------------------
+2025-04-18 16:11:47.060134732 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:11:47.064519018 [INFO] Collecting users to create.
+2025-04-18 16:11:47.067205777 [INFO] 	 + USERS.: carlos
+2025-04-18 16:11:47.070614511 [INFO] Collecting groups to create.
+2025-04-18 16:11:47.073251858 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:11:47.076359405 [INFO] Collecting work directories to create.
+2025-04-18 16:11:47.078966674 [INFO] 	 + DIR.: /publico
+2025-04-18 16:11:47.081683908 [INFO] Correlating groups and users.
+2025-04-18 16:11:47.084162455 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:11:47.086502497 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:11:47.088689357 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:11:47.090839515 [INFO] Getting permissions to work directories.
+2025-04-18 16:11:47.093028535 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:11:47.094816504 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:11:47.096782330 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:11:47.098674259 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:11:47.100794140 [INFO] Set primaries groups for users.
+2025-04-18 16:11:47.111588509 [FAIL] 	 + Error to set primary group GRP_ADM for user: 
+2025-04-18 16:11:47.122220305 [FAIL] 	 + Error to set primary group GRP_VEN for user: 
+2025-04-18 16:11:47.130937013 [FAIL] 	 + Error to set primary group GRP_SEC for user: 
+2025-04-18 16:12:16.407459868 [INFO] ---------------------------------------------
+2025-04-18 16:12:16.410913049 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:12:16.413808877 [INFO] ---------------------------------------------
+2025-04-18 16:12:16.416329108 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:12:16.420689381 [INFO] Collecting users to create.
+2025-04-18 16:12:16.423724433 [INFO] 	 + USERS.: carlos
+2025-04-18 16:12:16.426162975 [INFO] Collecting groups to create.
+2025-04-18 16:12:16.428387422 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:12:16.430550026 [INFO] Collecting work directories to create.
+2025-04-18 16:12:16.432916209 [INFO] 	 + DIR.: /publico
+2025-04-18 16:12:16.435140982 [INFO] Correlating groups and users.
+2025-04-18 16:12:16.437271108 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:12:16.439202384 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:12:16.440983186 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:12:16.442384047 [INFO] Getting permissions to work directories.
+2025-04-18 16:12:16.444138783 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:12:16.445910210 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:12:16.447474368 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:12:16.449249267 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:12:16.450712509 [INFO] Set primaries groups for users.
+2025-04-18 16:12:16.458883589 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:12:16.465857287 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:12:16.473173055 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:12:45.903758792 [INFO] ---------------------------------------------
+2025-04-18 16:12:45.906859104 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:12:45.910173850 [INFO] ---------------------------------------------
+2025-04-18 16:12:45.912640749 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:12:45.915945127 [INFO] Collecting users to create.
+2025-04-18 16:12:45.918308001 [INFO] 	 + USERS.: carlos
+2025-04-18 16:12:45.920586356 [INFO] Collecting groups to create.
+2025-04-18 16:12:45.922569780 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:12:45.924783796 [INFO] Collecting work directories to create.
+2025-04-18 16:12:45.927070646 [INFO] 	 + DIR.: /publico
+2025-04-18 16:12:45.929287474 [INFO] Correlating groups and users.
+2025-04-18 16:12:45.931645159 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:12:45.934120816 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:12:45.936757010 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:12:45.938994137 [INFO] Getting permissions to work directories.
+2025-04-18 16:12:45.941633182 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:12:45.943997781 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:12:45.946703927 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:12:45.949481879 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:12:45.951760249 [INFO] Set primaries groups for users.
+2025-04-18 16:12:45.961318191 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:12:45.969742198 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:12:45.977345389 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:14:33.451525993 [INFO] ---------------------------------------------
+2025-04-18 16:14:33.454383862 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:14:33.457115089 [INFO] ---------------------------------------------
+2025-04-18 16:14:33.459873659 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:14:33.464492736 [INFO] Collecting users to create.
+2025-04-18 16:14:33.466571828 [INFO] 	 + USERS.: carlos
+2025-04-18 16:14:33.468844851 [INFO] Collecting groups to create.
+2025-04-18 16:14:33.471180461 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:14:33.473339698 [INFO] Collecting work directories to create.
+2025-04-18 16:14:33.475873226 [INFO] 	 + DIR.: /publico
+2025-04-18 16:14:33.478228198 [INFO] Correlating groups and users.
+2025-04-18 16:14:33.480722589 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:14:33.482893831 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:14:33.485492911 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:14:33.488032648 [INFO] Getting permissions to work directories.
+2025-04-18 16:14:33.490577935 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:14:33.492913960 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:14:33.494939711 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:14:33.497028476 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:14:33.499199567 [INFO] Set primaries groups for users.
+2025-04-18 16:14:33.511230007 [FAIL] 	 + Error to set primary group GRP_ADM for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:14:33.519523188 [FAIL] 	 + Error to set primary group GRP_VEN for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:14:33.527320024 [FAIL] 	 + Error to set primary group GRP_SEC for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:15:45.046783604 [INFO] ---------------------------------------------
+2025-04-18 16:15:45.049547329 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:15:45.053161529 [INFO] ---------------------------------------------
+2025-04-18 16:15:45.056465555 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:15:45.064199502 [INFO] Collecting users to create.
+2025-04-18 16:15:45.068057352 [INFO] 	 + USERS.: carlos
+2025-04-18 16:15:45.071993402 [INFO] Collecting groups to create.
+2025-04-18 16:15:45.075543105 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:15:45.079239039 [INFO] Collecting work directories to create.
+2025-04-18 16:15:45.083220843 [INFO] 	 + DIR.: /publico
+2025-04-18 16:15:45.087448622 [INFO] Correlating groups and users.
+2025-04-18 16:15:45.090914097 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:15:45.093527225 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:15:45.095860930 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:15:45.098120816 [INFO] Getting permissions to work directories.
+2025-04-18 16:15:45.100227131 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:15:45.102568700 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:15:45.104865700 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:15:45.106923424 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:15:45.109088961 [INFO] Set primaries groups for users.
+2025-04-18 16:16:06.084433179 [INFO] ---------------------------------------------
+2025-04-18 16:16:06.086969674 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:16:06.089581149 [INFO] ---------------------------------------------
+2025-04-18 16:16:06.092428394 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:16:06.096499695 [INFO] Collecting users to create.
+2025-04-18 16:16:06.099283867 [INFO] 	 + USERS.: carlos
+2025-04-18 16:16:06.102157330 [INFO] Collecting groups to create.
+2025-04-18 16:16:06.104979316 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:16:06.107756078 [INFO] Collecting work directories to create.
+2025-04-18 16:16:06.110190903 [INFO] 	 + DIR.: /publico
+2025-04-18 16:16:06.112979193 [INFO] Correlating groups and users.
+2025-04-18 16:16:06.115582850 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:16:06.118470350 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:16:06.121050042 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:16:06.123632651 [INFO] Getting permissions to work directories.
+2025-04-18 16:16:06.126146446 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:16:06.128462386 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:16:06.130651725 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:16:06.133068588 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:16:06.135058986 [INFO] Set primaries groups for users.
+2025-04-18 16:16:06.144119952 [FAIL] 	 + Error to set primary group GRP_ADM for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:06.151718328 [FAIL] 	 + Error to set primary group GRP_VEN for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:06.158796147 [FAIL] 	 + Error to set primary group GRP_SEC for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:26.088966637 [INFO] ---------------------------------------------
+2025-04-18 16:16:26.091722804 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:16:26.094576766 [INFO] ---------------------------------------------
+2025-04-18 16:16:26.097113696 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:16:26.101299196 [INFO] Collecting users to create.
+2025-04-18 16:16:26.104050562 [INFO] 	 + USERS.: carlos
+2025-04-18 16:16:26.106637735 [INFO] Collecting groups to create.
+2025-04-18 16:16:26.108768593 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:16:26.110898137 [INFO] Collecting work directories to create.
+2025-04-18 16:16:26.113058713 [INFO] 	 + DIR.: /publico
+2025-04-18 16:16:26.114938187 [INFO] Correlating groups and users.
+2025-04-18 16:16:26.116819973 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:16:26.118353209 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:16:26.120105363 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:16:26.121641071 [INFO] Getting permissions to work directories.
+2025-04-18 16:16:26.122948982 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:16:26.124649542 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:16:26.126092431 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:16:26.127689513 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:16:26.129672491 [INFO] Set primaries groups for users.
+2025-04-18 16:16:26.138032243 [FAIL] 	 + Error to set primary group GRP_ADM for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:26.145191792 [FAIL] 	 + Error to set primary group GRP_VEN for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:26.153033790 [FAIL] 	 + Error to set primary group GRP_SEC for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:39.060305216 [INFO] ---------------------------------------------
+2025-04-18 16:16:39.063050071 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:16:39.065862041 [INFO] ---------------------------------------------
+2025-04-18 16:16:39.068270276 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:16:39.072359233 [INFO] Collecting users to create.
+2025-04-18 16:16:39.075054702 [INFO] 	 + USERS.: carlos
+2025-04-18 16:16:39.078143912 [INFO] Collecting groups to create.
+2025-04-18 16:16:39.080343152 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:16:39.081696627 [INFO] Collecting work directories to create.
+2025-04-18 16:16:39.083043624 [INFO] 	 + DIR.: /publico
+2025-04-18 16:16:39.084447630 [INFO] Correlating groups and users.
+2025-04-18 16:16:39.085513374 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:16:39.086613760 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:16:39.087902559 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:16:39.088933524 [INFO] Getting permissions to work directories.
+2025-04-18 16:16:39.089926616 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:16:39.090998533 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:16:39.092166953 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:16:39.093265899 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:16:39.094184879 [INFO] Set primaries groups for users.
+2025-04-18 16:16:39.101488861 [FAIL] 	 + Error to set primary group GRP_ADM for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:39.109090821 [FAIL] 	 + Error to set primary group GRP_VEN for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:39.118075949 [FAIL] 	 + Error to set primary group GRP_SEC for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:41.011959508 [INFO] ---------------------------------------------
+2025-04-18 16:16:41.015047092 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:16:41.018468162 [INFO] ---------------------------------------------
+2025-04-18 16:16:41.022021365 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:16:41.026672843 [INFO] Collecting users to create.
+2025-04-18 16:16:41.029161102 [INFO] 	 + USERS.: carlos
+2025-04-18 16:16:41.031431437 [INFO] Collecting groups to create.
+2025-04-18 16:16:41.033711315 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:16:41.035671644 [INFO] Collecting work directories to create.
+2025-04-18 16:16:41.037690534 [INFO] 	 + DIR.: /publico
+2025-04-18 16:16:41.039250743 [INFO] Correlating groups and users.
+2025-04-18 16:16:41.041046005 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:16:41.042184902 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:16:41.043452090 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:16:41.044648938 [INFO] Getting permissions to work directories.
+2025-04-18 16:16:41.045847219 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:16:41.047340904 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:16:41.048860208 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:16:41.049999008 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:16:41.051407249 [INFO] Set primaries groups for users.
+2025-04-18 16:16:41.060561736 [FAIL] 	 + Error to set primary group GRP_ADM for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:41.069156009 [FAIL] 	 + Error to set primary group GRP_VEN for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:16:41.076739660 [FAIL] 	 + Error to set primary group GRP_SEC for user GRP_ADM;carlos;maria;joao_
+2025-04-18 16:17:44.244298114 [INFO] ---------------------------------------------
+2025-04-18 16:17:44.247288052 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:17:44.250303131 [INFO] ---------------------------------------------
+2025-04-18 16:17:44.252871819 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:17:44.257020629 [INFO] Collecting users to create.
+2025-04-18 16:17:44.259518612 [INFO] 	 + USERS.: carlos
+2025-04-18 16:17:44.262167335 [INFO] Collecting groups to create.
+2025-04-18 16:17:44.264569781 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:17:44.266710678 [INFO] Collecting work directories to create.
+2025-04-18 16:17:44.268858548 [INFO] 	 + DIR.: /publico
+2025-04-18 16:17:44.270739332 [INFO] Correlating groups and users.
+2025-04-18 16:17:44.272662639 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:17:44.274379030 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:17:44.276008351 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:17:44.277440505 [INFO] Getting permissions to work directories.
+2025-04-18 16:17:44.278994897 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:17:44.280889163 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:17:44.283044849 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:17:44.285520892 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:17:44.287706305 [INFO] Set primaries groups for users.
+2025-04-18 16:17:44.297351291 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:17:44.304210665 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:17:44.311071766 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:19:08.380316930 [INFO] ---------------------------------------------
+2025-04-18 16:19:08.383370157 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:19:08.386436874 [INFO] ---------------------------------------------
+2025-04-18 16:19:08.389155638 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:19:08.393248065 [INFO] Collecting users to create.
+2025-04-18 16:19:08.396373401 [INFO] 	 + USERS.: carlos
+2025-04-18 16:19:08.399946891 [INFO] Collecting groups to create.
+2025-04-18 16:19:08.403208713 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:19:08.406829564 [INFO] Collecting work directories to create.
+2025-04-18 16:19:08.410425068 [INFO] 	 + DIR.: /publico
+2025-04-18 16:19:08.413644497 [INFO] Correlating groups and users.
+2025-04-18 16:19:08.416420938 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:19:08.419190212 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:19:08.421514030 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:19:08.423677955 [INFO] Getting permissions to work directories.
+2025-04-18 16:19:08.425965105 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:19:08.427930914 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:19:08.429855687 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:19:08.431515070 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:19:08.433592986 [INFO] Set primaries groups for users.
+2025-04-18 16:19:08.442907888 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:19:08.451659361 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:19:08.460939860 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:19:42.623953326 [INFO] ---------------------------------------------
+2025-04-18 16:19:42.626370535 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:19:42.629107721 [INFO] ---------------------------------------------
+2025-04-18 16:19:42.631991500 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:19:42.636358018 [INFO] Collecting users to create.
+2025-04-18 16:19:42.638972178 [INFO] 	 + USERS.: carlos
+2025-04-18 16:19:42.641896227 [INFO] Collecting groups to create.
+2025-04-18 16:19:42.644194720 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:19:42.646628925 [INFO] Collecting work directories to create.
+2025-04-18 16:19:42.648958539 [INFO] 	 + DIR.: /publico
+2025-04-18 16:19:42.651075971 [INFO] Correlating groups and users.
+2025-04-18 16:19:42.652962442 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:19:42.654882948 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:19:42.656957980 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:19:42.658508837 [INFO] Getting permissions to work directories.
+2025-04-18 16:19:42.660566741 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:19:42.662185714 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:19:42.663900268 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:19:42.665503214 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:19:42.667120901 [INFO] Set primaries groups for users.
+2025-04-18 16:20:28.737065286 [INFO] ---------------------------------------------
+2025-04-18 16:20:28.739607107 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:20:28.742424549 [INFO] ---------------------------------------------
+2025-04-18 16:20:28.745061595 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:20:28.749137116 [INFO] Collecting users to create.
+2025-04-18 16:20:28.751686410 [INFO] 	 + USERS.: carlos
+2025-04-18 16:20:28.754417317 [INFO] Collecting groups to create.
+2025-04-18 16:20:28.757253372 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:20:28.759859733 [INFO] Collecting work directories to create.
+2025-04-18 16:20:28.762459250 [INFO] 	 + DIR.: /publico
+2025-04-18 16:20:28.764880009 [INFO] Correlating groups and users.
+2025-04-18 16:20:28.767272423 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:20:28.769656602 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:20:28.771708707 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:20:28.773982749 [INFO] Getting permissions to work directories.
+2025-04-18 16:20:28.775767079 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:20:28.777474273 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:20:28.778750115 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:20:28.780132693 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:20:28.781484243 [INFO] Set primaries groups for users.
+2025-04-18 16:20:28.790373419 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:20:28.799771844 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:20:28.810347181 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:21:01.926137729 [INFO] ---------------------------------------------
+2025-04-18 16:21:01.928902837 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:21:01.931541581 [INFO] ---------------------------------------------
+2025-04-18 16:21:01.934363387 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:21:01.938523935 [INFO] Collecting users to create.
+2025-04-18 16:21:01.941177977 [INFO] 	 + USERS.: carlos
+2025-04-18 16:21:01.944417372 [INFO] Collecting groups to create.
+2025-04-18 16:21:01.947170326 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:21:01.949790047 [INFO] Collecting work directories to create.
+2025-04-18 16:21:01.952393702 [INFO] 	 + DIR.: /publico
+2025-04-18 16:21:01.955078640 [INFO] Correlating groups and users.
+2025-04-18 16:21:01.957666186 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:21:01.960712155 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:21:01.963579307 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:21:01.966267758 [INFO] Getting permissions to work directories.
+2025-04-18 16:21:01.969119763 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:21:01.971797607 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:21:01.974755257 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:21:01.977649024 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:21:01.980302655 [INFO] Set primaries groups for users.
+2025-04-18 16:21:01.989873631 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:21:01.997275711 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:21:02.005950305 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:24:47.471770709 [INFO] ---------------------------------------------
+2025-04-18 16:24:47.474411000 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:24:47.476823563 [INFO] ---------------------------------------------
+2025-04-18 16:24:47.478909555 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:24:47.482521474 [INFO] Collecting users to create.
+2025-04-18 16:24:47.485022055 [INFO] 	 + USERS.: carlos
+2025-04-18 16:24:47.487397332 [INFO] Collecting groups to create.
+2025-04-18 16:24:47.489414407 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:24:47.491345008 [INFO] Collecting work directories to create.
+2025-04-18 16:24:47.493312331 [INFO] 	 + DIR.: /publico
+2025-04-18 16:24:47.494745287 [INFO] Correlating groups and users.
+2025-04-18 16:24:47.496634798 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:24:47.498261830 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:24:47.500012079 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:24:47.501634040 [INFO] Getting permissions to work directories.
+2025-04-18 16:24:47.503205782 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:24:47.504983466 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:24:47.506441128 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:24:47.508074593 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:24:47.509654293 [INFO] Set primaries groups for users.
+2025-04-18 16:24:47.518199765 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:24:47.526022588 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:24:47.533075398 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:25:18.847811549 [INFO] ---------------------------------------------
+2025-04-18 16:25:18.851213997 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:25:18.854375562 [INFO] ---------------------------------------------
+2025-04-18 16:25:18.857280399 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:25:18.861814363 [INFO] Collecting users to create.
+2025-04-18 16:25:18.864833733 [INFO] 	 + USERS.: carlos
+2025-04-18 16:25:18.868355232 [INFO] Collecting groups to create.
+2025-04-18 16:25:18.871898594 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:25:18.874637959 [INFO] Collecting work directories to create.
+2025-04-18 16:25:18.877461226 [INFO] 	 + DIR.: /publico
+2025-04-18 16:25:18.880341373 [INFO] Correlating groups and users.
+2025-04-18 16:25:18.883185031 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:25:18.885930222 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:25:18.888219630 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:25:18.891047036 [INFO] Getting permissions to work directories.
+2025-04-18 16:25:18.893733976 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:25:18.896225937 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:25:18.899053574 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:25:18.901644699 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:25:18.905483830 [INFO] Set primaries groups for users.
+2025-04-18 16:25:18.915450258 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:25:18.924096915 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:25:18.931586729 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:26:27.308508857 [INFO] ---------------------------------------------
+2025-04-18 16:26:27.311527562 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:26:27.314981928 [INFO] ---------------------------------------------
+2025-04-18 16:26:27.318072686 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:26:27.322825207 [INFO] Collecting users to create.
+2025-04-18 16:26:27.325973070 [INFO] 	 + USERS.: carlos
+2025-04-18 16:26:27.328905580 [INFO] Collecting groups to create.
+2025-04-18 16:26:27.331804646 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:26:27.334727745 [INFO] Collecting work directories to create.
+2025-04-18 16:26:27.337699085 [INFO] 	 + DIR.: /publico
+2025-04-18 16:26:27.340590709 [INFO] Correlating groups and users.
+2025-04-18 16:26:27.343322777 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:26:27.346104809 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:26:27.348657753 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:26:27.350972439 [INFO] Getting permissions to work directories.
+2025-04-18 16:26:27.353582388 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:26:27.356815064 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:26:27.360164491 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:26:27.363112448 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:26:27.366052316 [INFO] Set primaries groups for users.
+2025-04-18 16:26:27.377433986 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos,maria,joao_
+2025-04-18 16:26:27.387064810 [FAIL] 	 + Error to set primary group GRP_VEN for user debora,sebastiana,roberto
+2025-04-18 16:26:27.396896856 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina,amanda,rogerio
+2025-04-18 16:31:16.645366521 [INFO] ---------------------------------------------
+2025-04-18 16:31:16.648285886 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:31:16.651116090 [INFO] ---------------------------------------------
+2025-04-18 16:31:16.653406660 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:31:16.657411246 [INFO] Collecting users to create.
+2025-04-18 16:31:16.660059807 [INFO] 	 + USERS.: carlos
+2025-04-18 16:31:16.663060722 [INFO] Collecting groups to create.
+2025-04-18 16:31:16.666193985 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:31:16.669368797 [INFO] Collecting work directories to create.
+2025-04-18 16:31:16.672321809 [INFO] 	 + DIR.: /publico
+2025-04-18 16:31:16.675087649 [INFO] Correlating groups and users.
+2025-04-18 16:31:16.677896366 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:31:16.680603226 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:31:16.682955918 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:31:16.685451657 [INFO] Getting permissions to work directories.
+2025-04-18 16:31:16.688125465 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:31:16.690986540 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:31:16.693860689 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:31:16.695821543 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:31:16.698079890 [INFO] Set primaries groups for users.
+2025-04-18 16:31:16.707605066 [FAIL] 	 + Error to set primary group GRP_ADM for user carlos
+2025-04-18 16:31:16.715290311 [FAIL] 	 + Error to set primary group GRP_ADM for user maria
+2025-04-18 16:31:16.722493757 [FAIL] 	 + Error to set primary group GRP_ADM for user joao_
+2025-04-18 16:31:16.730174106 [FAIL] 	 + Error to set primary group GRP_VEN for user debora
+2025-04-18 16:31:16.737456701 [FAIL] 	 + Error to set primary group GRP_VEN for user sebastiana
+2025-04-18 16:31:16.744481762 [FAIL] 	 + Error to set primary group GRP_VEN for user roberto
+2025-04-18 16:31:16.751429340 [FAIL] 	 + Error to set primary group GRP_SEC for user josefina
+2025-04-18 16:31:16.759565433 [FAIL] 	 + Error to set primary group GRP_SEC for user amanda
+2025-04-18 16:31:16.766207743 [FAIL] 	 + Error to set primary group GRP_SEC for user rogerio
+2025-04-18 16:32:49.913652262 [INFO] ---------------------------------------------
+2025-04-18 16:32:49.916355321 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:32:49.919093642 [INFO] ---------------------------------------------
+2025-04-18 16:32:49.921558330 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:32:49.924870996 [INFO] Collecting users to create.
+2025-04-18 16:32:49.926838014 [INFO] 	 + USERS.: carlos
+2025-04-18 16:32:49.928726166 [INFO] Collecting groups to create.
+2025-04-18 16:32:49.930452814 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:32:49.932200449 [INFO] Collecting work directories to create.
+2025-04-18 16:32:49.933788429 [INFO] 	 + DIR.: /publico
+2025-04-18 16:32:49.935065328 [INFO] Correlating groups and users.
+2025-04-18 16:32:49.936511634 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:32:49.938058359 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:32:49.939446183 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:32:49.940975967 [INFO] Getting permissions to work directories.
+2025-04-18 16:32:49.942386252 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:32:49.944048527 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:32:49.945531108 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:32:49.946616016 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:32:49.948025549 [INFO] Setting permissions for the directories.
+2025-04-18 16:34:21.066851717 [INFO] ---------------------------------------------
+2025-04-18 16:34:21.069732589 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:34:21.072327831 [INFO] ---------------------------------------------
+2025-04-18 16:34:21.074629754 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:34:21.078274123 [INFO] Collecting users to create.
+2025-04-18 16:34:21.081086202 [INFO] 	 + USERS.: carlos
+2025-04-18 16:34:21.084072424 [INFO] Collecting groups to create.
+2025-04-18 16:34:21.087124409 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:34:21.090018517 [INFO] Collecting work directories to create.
+2025-04-18 16:34:21.092700517 [INFO] 	 + DIR.: /publico
+2025-04-18 16:34:21.095328202 [INFO] Correlating groups and users.
+2025-04-18 16:34:21.098192827 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:34:21.100760265 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:34:21.103131168 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:34:21.105653330 [INFO] Getting permissions to work directories.
+2025-04-18 16:34:21.107738239 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:34:21.109630192 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:34:21.111347153 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:34:21.113172362 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:34:21.114687649 [INFO] Setting permissions for the directories.
+2025-04-18 16:38:05.191221860 [INFO] ---------------------------------------------
+2025-04-18 16:38:05.192378374 [INFO] Starting program ./createUsersGroups.sh
+2025-04-18 16:38:05.193406133 [INFO] ---------------------------------------------
+2025-04-18 16:38:05.194446979 [INFO] Reading file ['users_and_groups_list.txt']
+2025-04-18 16:38:05.196301315 [INFO] Collecting users to create.
+2025-04-18 16:38:05.197346039 [INFO] 	 + USERS.: carlos
+2025-04-18 16:38:05.198316372 [INFO] Collecting groups to create.
+2025-04-18 16:38:05.199513086 [INFO] 	 + GROUPS.: GRP_ADM
+2025-04-18 16:38:05.200708162 [INFO] Collecting work directories to create.
+2025-04-18 16:38:05.201796368 [INFO] 	 + DIR.: /publico
+2025-04-18 16:38:05.202752467 [INFO] Correlating groups and users.
+2025-04-18 16:38:05.204204270 [INFO] 	 + GRP_ADM: carlos;maria;joao_
+2025-04-18 16:38:05.205203555 [INFO] 	 + GRP_VEN: debora;sebastiana;roberto
+2025-04-18 16:38:05.206157494 [INFO] 	 + GRP_SEC: josefina;amanda;rogerio
+2025-04-18 16:38:05.207444242 [INFO] Getting permissions to work directories.
+2025-04-18 16:38:05.208663298 [INFO] 	 + /publico: root;root;rwx;rwx;rwx
+2025-04-18 16:38:05.209755785 [INFO] 	 + /adm: root;GRP_ADM;rwx;rwx;---
+2025-04-18 16:38:05.210946405 [INFO] 	 + /ven: root;GRP_VEN;rwx;rwx;---
+2025-04-18 16:38:05.212212774 [INFO] 	 + /sec: root;GRP_SEC;rwx;rwx;---
+2025-04-18 16:38:05.213460023 [INFO] Setting permissions for the directories.

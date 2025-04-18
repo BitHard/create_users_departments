@@ -14,17 +14,19 @@ GROUP:GRP_ADM
 GROUP:GRP_VEN
 GROUP:GRP_SEC
 
-#Groups's Users
-USERS_GROUP:GRP_ADM:carlos;maria;joao_
-USERS_GROUP:GRP_VEN:debora;sebastiana;roberto
-USERS_GROUP:GRP_SEC:josefina;amanda;rogerio
-
-
 #Work Directories
 DIR:/publico
 DIR:/adm
 DIR:/ven
 DIR:/sec
+
+#Groups's Users
+# Syntax: KEY:GROUPNAME;USERLIST(separated by ;)
+
+USERS_GROUP:GRP_ADM;carlos;maria;joao_
+USERS_GROUP:GRP_VEN;debora;sebastiana;roberto
+USERS_GROUP:GRP_SEC;josefina;amanda;rogerio
+
 
 
 #Permissions (directory_name;owner;group;owner_properties;group_properties;others_properties)
